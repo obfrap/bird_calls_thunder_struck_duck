@@ -1,0 +1,2710 @@
+,prediction,groundtruth,correct_prediction
+0,American Crow,American Crow,True
+1,Grey Vireo,Black-chinned Sparrow,False
+2,Long-eared Owl,Anna's Hummingbird,False
+3,Pacific Wren,Pacific Wren,True
+4,Abert's Towhee,Black Phoebe,False
+5,Steller's Jay,Acorn Woodpecker,False
+6,House Finch,Pygmy Nuthatch,False
+7,Lazuli Bunting,Lazuli Bunting,True
+8,Swainson's Thrush,Swainson's Thrush,True
+9,Northern Flicker,Northern Flicker,True
+10,Rock Wren,Rock Wren,True
+11,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+12,Lark Sparrow,Lark Sparrow,True
+13,California Gnatcatcher,Green-tailed Towhee,False
+14,Long-eared Owl,Long-eared Owl,True
+15,Rock Wren,Rock Wren,True
+16,Chestnut-backed Chickadee,Oak Titmouse,False
+17,California Thrasher,California Thrasher,True
+18,Lincoln's Sparrow,Lincoln's Sparrow,True
+19,Bell's Vireo,Bell's Vireo,True
+20,Grey Vireo,Lark Sparrow,False
+21,Rufous-crowned Sparrow,White-crowned Sparrow,False
+22,Brewer's Sparrow,Brewer's Sparrow,True
+23,Northern Mockingbird,Northern Mockingbird,True
+24,American Dusky Flycatcher,American Dusky Flycatcher,True
+25,Dark-eyed Junco,Orange-crowned Warbler,False
+26,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+27,American Grey Flycatcher,American Grey Flycatcher,True
+28,Hermit Warbler,Hermit Warbler,True
+29,Northern Flicker,Northern Flicker,True
+30,Rock Wren,Rock Wren,True
+31,Marsh Wren,Red-winged Blackbird,False
+32,Swainson's Thrush,Swainson's Thrush,True
+33,Northern Flicker,Northern Raven,False
+34,Clark's Nutcracker,Clark's Nutcracker,True
+35,California Scrub Jay,Yellow-billed Magpie,False
+36,Ash-throated Flycatcher,Black-chinned Sparrow,False
+37,Cassin's Vireo,American Grey Flycatcher,False
+38,Long-eared Owl,Long-eared Owl,True
+39,Clark's Nutcracker,Clark's Nutcracker,True
+40,Common Yellowthroat,Black Phoebe,False
+41,Swainson's Thrush,White-crowned Sparrow,False
+42,Northern Mockingbird,Ash-throated Flycatcher,False
+43,Black-headed Grosbeak,Black-headed Grosbeak,True
+44,House Wren,Rufous-crowned Sparrow,False
+45,American Dusky Flycatcher,American Dusky Flycatcher,True
+46,Red Crossbill,Great Horned Owl,False
+47,House Finch,Cassin's Finch,False
+48,Lincoln's Sparrow,Lincoln's Sparrow,True
+49,Spotted Towhee,Juniper Titmouse,False
+50,Flammulated Owl,Flammulated Owl,True
+51,Yellow-breasted Chat,Yellow-breasted Chat,True
+52,Nutting's Flycatcher,Black-chinned Sparrow,False
+53,Lazuli Bunting,Lazuli Bunting,True
+54,Brewer's Sparrow,Brewer's Sparrow,True
+55,California Towhee,California Towhee,True
+56,Black-chinned Sparrow,Black-chinned Sparrow,True
+57,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+58,Pacific Wren,Pacific Wren,True
+59,Brewer's Sparrow,Brewer's Sparrow,True
+60,Juniper Titmouse,Juniper Titmouse,True
+61,House Finch,House Finch,True
+62,Long-eared Owl,Long-eared Owl,True
+63,Brewer's Sparrow,Black-chinned Sparrow,False
+64,Flammulated Owl,Flammulated Owl,True
+65,American Dusky Flycatcher,American Dusky Flycatcher,True
+66,Western Screech Owl,Western Screech Owl,True
+67,Hermit Warbler,Hermit Warbler,True
+68,Long-eared Owl,Long-eared Owl,True
+69,Great Horned Owl,Flammulated Owl,False
+70,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+71,Lark Sparrow,Lark Sparrow,True
+72,Ridgway's Rail,Pygmy Nuthatch,False
+73,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+74,Lark Sparrow,Red-winged Blackbird,False
+75,Swainson's Thrush,White-breasted Nuthatch,False
+76,American Robin,American Robin,True
+77,American Crow,American Crow,True
+78,Brewer's Sparrow,Wrentit,False
+79,California Gnatcatcher,California Gnatcatcher,True
+80,Great Horned Owl,Great Horned Owl,True
+81,Northern Flicker,Northern Flicker,True
+82,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+83,California Quail,California Quail,True
+84,Phainopepla,Phainopepla,True
+85,Black-chinned Sparrow,Black-chinned Sparrow,True
+86,California Quail,California Quail,True
+87,Cassin's Vireo,Cassin's Vireo,True
+88,Bell's Vireo,Bell's Vireo,True
+89,Lincoln's Sparrow,Lincoln's Sparrow,True
+90,Cassin's Vireo,Cassin's Vireo,True
+91,Hermit Warbler,Hermit Warbler,True
+92,Clark's Nutcracker,Clark's Nutcracker,True
+93,Warbling Vireo,Bell's Sparrow,False
+94,Western Meadowlark,Verdin,False
+95,Dark-eyed Junco,Dark-eyed Junco,True
+96,Wrentit,Wrentit,True
+97,Hutton's Vireo,California Thrasher,False
+98,Red-winged Blackbird,Red-winged Blackbird,True
+99,Long-eared Owl,Long-eared Owl,True
+100,Black-headed Grosbeak,Black-headed Grosbeak,True
+101,Cassin's Vireo,Cassin's Vireo,True
+102,Marsh Wren,Marsh Wren,True
+103,Wilson's Warbler,Black-tailed Gnatcatcher,False
+104,Lesser Goldfinch,Lesser Goldfinch,True
+105,California Gnatcatcher,California Gnatcatcher,True
+106,Northern Raven,Lark Sparrow,False
+107,White-headed Woodpecker,White-headed Woodpecker,True
+108,Red-winged Blackbird,Red-winged Blackbird,True
+109,Pacific Wren,Pacific Wren,True
+110,Chestnut-backed Chickadee,American Bushtit,False
+111,White-crowned Sparrow,Pygmy Nuthatch,False
+112,Wrentit,Hermit Thrush,False
+113,California Quail,California Quail,True
+114,Canyon Wren,Rock Wren,False
+115,Long-eared Owl,Long-eared Owl,True
+116,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+117,Orange-crowned Warbler,Orange-crowned Warbler,True
+118,Phainopepla,Phainopepla,True
+119,White-headed Woodpecker,Hermit Warbler,False
+120,Common Poorwill,Common Poorwill,True
+121,Phainopepla,Phainopepla,True
+122,Lesser Goldfinch,Common Yellowthroat,False
+123,Clark's Nutcracker,Steller's Jay,False
+124,Flammulated Owl,Great Horned Owl,False
+125,Thick-billed Fox Sparrow,Thick-billed Fox Sparrow,True
+126,Black-headed Grosbeak,Black-headed Grosbeak,True
+127,Steller's Jay,Hermit Warbler,False
+128,Black-headed Grosbeak,Lark Sparrow,False
+129,Nutting's Flycatcher,Nutting's Flycatcher,True
+130,Flammulated Owl,Flammulated Owl,True
+131,Northern Mockingbird,Pacific-slope Flycatcher,False
+132,Common Poorwill,Common Poorwill,True
+133,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+134,California Gnatcatcher,Green-tailed Towhee,False
+135,Lincoln's Sparrow,Swainson's Thrush,False
+136,Mountain Quail,Mountain Quail,True
+137,Grey Vireo,Grey Vireo,True
+138,Hermit Thrush,Hermit Thrush,True
+139,California Thrasher,Lincoln's Sparrow,False
+140,Common Yellowthroat,Pacific-slope Flycatcher,False
+141,California Quail,California Quail,True
+142,Bell's Sparrow,Bell's Sparrow,True
+143,Tricolored Blackbird,Tricolored Blackbird,True
+144,California Gnatcatcher,California Gnatcatcher,True
+145,American Grey Flycatcher,American Grey Flycatcher,True
+146,California Towhee,White-crowned Sparrow,False
+147,Snow Goose,Snow Goose,True
+148,Hermit Warbler,Orange-crowned Warbler,False
+149,White-breasted Nuthatch,White-breasted Nuthatch,True
+150,Wilson's Warbler,Brewer's Sparrow,False
+151,Juniper Titmouse,Juniper Titmouse,True
+152,Brewer's Sparrow,Brewer's Sparrow,True
+153,Phainopepla,Spotted Towhee,False
+154,California Scrub Jay,California Scrub Jay,True
+155,Black Phoebe,Black Phoebe,True
+156,Dark-eyed Junco,Dark-eyed Junco,True
+157,Red-winged Blackbird,Red-winged Blackbird,True
+158,Phainopepla,California Quail,False
+159,White-headed Woodpecker,White-headed Woodpecker,True
+160,Hutton's Vireo,Hutton's Vireo,True
+161,Western Screech Owl,Western Screech Owl,True
+162,Thick-billed Fox Sparrow,Pacific-slope Flycatcher,False
+163,Canyon Wren,Common Yellowthroat,False
+164,Northern Saw-whet Owl,Northern Saw-whet Owl,True
+165,Lark Sparrow,California Gnatcatcher,False
+166,Clark's Nutcracker,Clark's Nutcracker,True
+167,Black-headed Grosbeak,Common Yellowthroat,False
+168,Chestnut-backed Chickadee,American Bushtit,False
+169,American Bushtit,American Bushtit,True
+170,Phainopepla,Phainopepla,True
+171,Hermit Warbler,Thick-billed Fox Sparrow,False
+172,Rock Wren,Rock Wren,True
+173,Hutton's Vireo,Ridgway's Rail,False
+174,White-crowned Sparrow,White-crowned Sparrow,True
+175,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+176,Phainopepla,Northern Mockingbird,False
+177,Cassin's Vireo,Cassin's Vireo,True
+178,Common Yellowthroat,Common Yellowthroat,True
+179,Pacific-slope Flycatcher,Pacific-slope Flycatcher,True
+180,Mountain Quail,Steller's Jay,False
+181,Hermit Warbler,Hermit Warbler,True
+182,Yellow-breasted Chat,Lincoln's Sparrow,False
+183,Grey Vireo,Grey Vireo,True
+184,House Finch,House Finch,True
+185,Hutton's Vireo,Hutton's Vireo,True
+186,Rock Wren,Rock Wren,True
+187,Black-chinned Sparrow,Black-chinned Sparrow,True
+188,Elegant Tern,Ridgway's Rail,False
+189,Warbling Vireo,Warbling Vireo,True
+190,Long-eared Owl,Long-eared Owl,True
+191,Lesser Goldfinch,Lesser Goldfinch,True
+192,Mountain Chickadee,Black-tailed Gnatcatcher,False
+193,Rock Wren,Rock Wren,True
+194,Cassin's Vireo,Grey Vireo,False
+195,Yellow-breasted Chat,Song Sparrow,False
+196,Juniper Titmouse,White-headed Woodpecker,False
+197,American Crow,Pacific-slope Flycatcher,False
+198,White-headed Woodpecker,White-headed Woodpecker,True
+199,Flammulated Owl,Flammulated Owl,True
+200,Bewick's Wren,Northern Mockingbird,False
+201,Thick-billed Fox Sparrow,Mountain Quail,False
+202,Grey Vireo,Grey Vireo,True
+203,Nutting's Flycatcher,Abert's Towhee,False
+204,Lesser Goldfinch,Mountain Chickadee,False
+205,Hermit Warbler,Hermit Warbler,True
+206,Warbling Vireo,Warbling Vireo,True
+207,Thick-billed Fox Sparrow,Thick-billed Fox Sparrow,True
+208,American Robin,Song Sparrow,False
+209,Wilson's Warbler,Wilson's Warbler,True
+210,Chestnut-backed Chickadee,House Wren,False
+211,Rock Wren,Rock Wren,True
+212,Great Horned Owl,Great Horned Owl,True
+213,Pygmy Nuthatch,Pygmy Nuthatch,True
+214,Yellow-breasted Chat,Yellow-breasted Chat,True
+215,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+216,Bewick's Wren,Bewick's Wren,True
+217,Black-tailed Gnatcatcher,Black-tailed Gnatcatcher,True
+218,Canyon Wren,Canyon Wren,True
+219,Lesser Goldfinch,Abert's Towhee,False
+220,Flammulated Owl,Flammulated Owl,True
+221,Black Phoebe,House Wren,False
+222,Spotted Owl,Western Screech Owl,False
+223,American Bushtit,American Bushtit,True
+224,Cassin's Vireo,American Dusky Flycatcher,False
+225,Lesser Goldfinch,Phainopepla,False
+226,Cassin's Finch,Slate-colored Fox Sparrow,False
+227,Bewick's Wren,California Gnatcatcher,False
+228,Swainson's Thrush,Swainson's Thrush,True
+229,Hermit Warbler,Hermit Warbler,True
+230,Cassin's Vireo,Cassin's Vireo,True
+231,Brewer's Sparrow,Green-tailed Towhee,False
+232,Lincoln's Sparrow,Lesser Goldfinch,False
+233,Phainopepla,Phainopepla,True
+234,Lark Sparrow,Lark Sparrow,True
+235,White-crowned Sparrow,White-crowned Sparrow,True
+236,California Gnatcatcher,California Gnatcatcher,True
+237,Hermit Warbler,Hermit Warbler,True
+238,Swainson's Thrush,Swainson's Thrush,True
+239,House Finch,House Finch,True
+240,Canyon Wren,MacGillivray's Warbler,False
+241,Northern Saw-whet Owl,Northern Saw-whet Owl,True
+242,Grey Vireo,Pygmy Nuthatch,False
+243,Lark Sparrow,Lark Sparrow,True
+244,Northern Flicker,Northern Flicker,True
+245,Thick-billed Fox Sparrow,Orange-crowned Warbler,False
+246,House Finch,Thick-billed Fox Sparrow,False
+247,Great Horned Owl,Great Horned Owl,True
+248,Hutton's Vireo,American Grey Flycatcher,False
+249,American Dusky Flycatcher,American Dusky Flycatcher,True
+250,Warbling Vireo,Warbling Vireo,True
+251,Cassin's Vireo,Cassin's Vireo,True
+252,Pygmy Nuthatch,Lesser Goldfinch,False
+253,Thick-billed Fox Sparrow,Black-chinned Sparrow,False
+254,Lark Sparrow,Lark Sparrow,True
+255,Western Wood Pewee,Hutton's Vireo,False
+256,White-crowned Sparrow,California Gnatcatcher,False
+257,Acorn Woodpecker,Clark's Nutcracker,False
+258,Cassin's Finch,Steller's Jay,False
+259,Yellow-breasted Chat,Yellow-breasted Chat,True
+260,Nutting's Flycatcher,MacGillivray's Warbler,False
+261,Swainson's Thrush,Swainson's Thrush,True
+262,Lark Sparrow,Lark Sparrow,True
+263,Lark Sparrow,Common Yellowthroat,False
+264,Canyon Wren,Canyon Wren,True
+265,Hermit Thrush,Hermit Thrush,True
+266,American Dusky Flycatcher,American Dusky Flycatcher,True
+267,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+268,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+269,Juniper Titmouse,Hermit Thrush,False
+270,California Gnatcatcher,California Towhee,False
+271,Cassin's Vireo,Cassin's Vireo,True
+272,Hermit Warbler,Hermit Warbler,True
+273,Forster's Tern,Forster's Tern,True
+274,Swainson's Thrush,Swainson's Thrush,True
+275,Brewer's Sparrow,Brewer's Sparrow,True
+276,Hermit Warbler,Hermit Warbler,True
+277,Slate-colored Fox Sparrow,American Dusky Flycatcher,False
+278,Cassin's Vireo,Cassin's Vireo,True
+279,Black Phoebe,Verdin,False
+280,MacGillivray's Warbler,MacGillivray's Warbler,True
+281,American Grey Flycatcher,American Grey Flycatcher,True
+282,Orange-crowned Warbler,Orange-crowned Warbler,True
+283,Pacific-slope Flycatcher,Blue-grey Gnatcatcher,False
+284,Green-tailed Towhee,Green-tailed Towhee,True
+285,Lesser Goldfinch,Lesser Goldfinch,True
+286,Black-chinned Sparrow,Slate-colored Fox Sparrow,False
+287,Hermit Warbler,Hermit Warbler,True
+288,American Robin,American Robin,True
+289,Anna's Hummingbird,Pacific Wren,False
+290,Acorn Woodpecker,Northern Mockingbird,False
+291,Canyon Wren,Canyon Wren,True
+292,American Robin,American Robin,True
+293,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+294,Pygmy Nuthatch,Pygmy Nuthatch,True
+295,White-headed Woodpecker,White-headed Woodpecker,True
+296,Black-headed Grosbeak,Cassin's Finch,False
+297,American Robin,Brewer's Sparrow,False
+298,Verdin,Canyon Wren,False
+299,Lazuli Bunting,Lazuli Bunting,True
+300,Verdin,MacGillivray's Warbler,False
+301,Black-chinned Sparrow,Black-chinned Sparrow,True
+302,Wrentit,Spotted Towhee,False
+303,Brewer's Sparrow,Brewer's Sparrow,True
+304,House Wren,Spotted Towhee,False
+305,Lincoln's Sparrow,Lincoln's Sparrow,True
+306,Cassin's Finch,Cassin's Finch,True
+307,Cassin's Finch,Cassin's Finch,True
+308,American Robin,American Robin,True
+309,Red-winged Blackbird,Tricolored Blackbird,False
+310,MacGillivray's Warbler,MacGillivray's Warbler,True
+311,Long-eared Owl,Long-eared Owl,True
+312,Common Yellowthroat,Common Yellowthroat,True
+313,Lesser Goldfinch,Lesser Goldfinch,True
+314,Steller's Jay,Black-tailed Gnatcatcher,False
+315,Lark Sparrow,Lark Sparrow,True
+316,Phainopepla,Phainopepla,True
+317,Cassin's Vireo,Bell's Vireo,False
+318,Slate-colored Fox Sparrow,Western Meadowlark,False
+319,American Dusky Flycatcher,American Dusky Flycatcher,True
+320,Brewer's Sparrow,Brewer's Sparrow,True
+321,House Finch,House Finch,True
+322,Northern Pygmy Owl,Northern Pygmy Owl,True
+323,Western Screech Owl,Western Screech Owl,True
+324,Great Horned Owl,Great Horned Owl,True
+325,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+326,Red Crossbill,Northern Raven,False
+327,Black-chinned Sparrow,Black-chinned Sparrow,True
+328,Pygmy Nuthatch,Abert's Towhee,False
+329,Lark Sparrow,Lark Sparrow,True
+330,Cassin's Vireo,Cassin's Vireo,True
+331,Pygmy Nuthatch,Abert's Towhee,False
+332,Juniper Titmouse,Juniper Titmouse,True
+333,Marsh Wren,Marsh Wren,True
+334,Lesser Goldfinch,Lesser Goldfinch,True
+335,Common Yellowthroat,American Crow,False
+336,Flammulated Owl,Flammulated Owl,True
+337,Lesser Goldfinch,Common Yellowthroat,False
+338,Abert's Towhee,Steller's Jay,False
+339,American Grey Flycatcher,American Grey Flycatcher,True
+340,Common Yellowthroat,Common Yellowthroat,True
+341,Grey Vireo,Grey Vireo,True
+342,Cassin's Vireo,Warbling Vireo,False
+343,Cassin's Finch,Cassin's Finch,True
+344,Anna's Hummingbird,Anna's Hummingbird,True
+345,Common Poorwill,Common Poorwill,True
+346,Lesser Goldfinch,Lesser Goldfinch,True
+347,Snow Goose,Snow Goose,True
+348,Clark's Nutcracker,Clark's Nutcracker,True
+349,House Finch,Brewer's Sparrow,False
+350,Lazuli Bunting,Lazuli Bunting,True
+351,Rock Wren,Rock Wren,True
+352,Northern Mockingbird,California Quail,False
+353,Black-chinned Sparrow,Black-tailed Gnatcatcher,False
+354,Rock Wren,Rock Wren,True
+355,Black-headed Grosbeak,Black-headed Grosbeak,True
+356,Phainopepla,Phainopepla,True
+357,Rufous-crowned Sparrow,Juniper Titmouse,False
+358,Orange-crowned Warbler,Lazuli Bunting,False
+359,Lincoln's Sparrow,Lincoln's Sparrow,True
+360,Song Sparrow,Lazuli Bunting,False
+361,Northern Saw-whet Owl,Mountain Quail,False
+362,American Robin,American Robin,True
+363,Grey Vireo,Grey Vireo,True
+364,Elegant Tern,Forster's Tern,False
+365,Hermit Warbler,Hermit Warbler,True
+366,Warbling Vireo,Warbling Vireo,True
+367,Common Yellowthroat,Common Yellowthroat,True
+368,Warbling Vireo,Warbling Vireo,True
+369,Cassin's Finch,Steller's Jay,False
+370,Brewer's Sparrow,Brewer's Sparrow,True
+371,Western Meadowlark,Red-winged Blackbird,False
+372,Rufous-crowned Sparrow,Blue-grey Gnatcatcher,False
+373,House Finch,Canyon Wren,False
+374,Verdin,Verdin,True
+375,Yellow-breasted Chat,White-headed Woodpecker,False
+376,California Quail,California Quail,True
+377,Bewick's Wren,Blue-grey Gnatcatcher,False
+378,Spotted Owl,Western Screech Owl,False
+379,Blue-grey Gnatcatcher,Common Yellowthroat,False
+380,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+381,Lazuli Bunting,Lazuli Bunting,True
+382,Lesser Goldfinch,Lesser Goldfinch,True
+383,Hermit Warbler,Hermit Warbler,True
+384,Common Poorwill,Common Poorwill,True
+385,Brewer's Sparrow,Brewer's Sparrow,True
+386,Brewer's Sparrow,Lincoln's Sparrow,False
+387,Lesser Goldfinch,Lesser Goldfinch,True
+388,Black-headed Grosbeak,Black-headed Grosbeak,True
+389,California Thrasher,California Thrasher,True
+390,Nutting's Flycatcher,Juniper Titmouse,False
+391,Canyon Wren,Black-chinned Sparrow,False
+392,Tricolored Blackbird,Ridgway's Rail,False
+393,Long-eared Owl,Clark's Nutcracker,False
+394,Verdin,Verdin,True
+395,Black Phoebe,Black Phoebe,True
+396,Snow Goose,Snow Goose,True
+397,Canyon Wren,Rock Wren,False
+398,Pygmy Nuthatch,Blue-grey Gnatcatcher,False
+399,House Wren,House Wren,True
+400,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+401,Swainson's Thrush,Ash-throated Flycatcher,False
+402,Warbling Vireo,Lincoln's Sparrow,False
+403,Flammulated Owl,Flammulated Owl,True
+404,Red-winged Blackbird,Red-winged Blackbird,True
+405,Dark-eyed Junco,Dark-eyed Junco,True
+406,Western Wood Pewee,Hutton's Vireo,False
+407,Grey Vireo,Grey Vireo,True
+408,Tricolored Blackbird,Song Sparrow,False
+409,Northern Pygmy Owl,Northern Pygmy Owl,True
+410,Black Phoebe,Black Phoebe,True
+411,Western Wood Pewee,Western Meadowlark,False
+412,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+413,Black-headed Grosbeak,Black-headed Grosbeak,True
+414,Ridgway's Rail,Lesser Goldfinch,False
+415,Warbling Vireo,Warbling Vireo,True
+416,Black-headed Grosbeak,Hermit Warbler,False
+417,Grey Vireo,Grey Vireo,True
+418,Mountain Quail,Mountain Quail,True
+419,Green-tailed Towhee,Green-tailed Towhee,True
+420,Black-chinned Sparrow,Black-chinned Sparrow,True
+421,Common Yellowthroat,Black-headed Grosbeak,False
+422,Cassin's Vireo,Northern Flicker,False
+423,Black-headed Grosbeak,Black-headed Grosbeak,True
+424,Spotted Owl,Spotted Owl,True
+425,Cassin's Vireo,Lazuli Bunting,False
+426,Red-winged Blackbird,Red-winged Blackbird,True
+427,American Grey Flycatcher,American Grey Flycatcher,True
+428,Northern Pygmy Owl,Northern Pygmy Owl,True
+429,White-crowned Sparrow,White-crowned Sparrow,True
+430,Lazuli Bunting,Common Yellowthroat,False
+431,Western Wood Pewee,Western Wood Pewee,True
+432,Ash-throated Flycatcher,Western Wood Pewee,False
+433,Lark Sparrow,Lark Sparrow,True
+434,Slate-colored Fox Sparrow,Cassin's Vireo,False
+435,American Dusky Flycatcher,American Dusky Flycatcher,True
+436,Cassin's Vireo,House Wren,False
+437,Western Meadowlark,Swainson's Thrush,False
+438,Northern Pygmy Owl,Western Screech Owl,False
+439,Cassin's Vireo,Cassin's Finch,False
+440,Grey Vireo,Grey Vireo,True
+441,Western Screech Owl,Western Screech Owl,True
+442,Lark Sparrow,Juniper Titmouse,False
+443,Lincoln's Sparrow,Hermit Warbler,False
+444,Nutting's Flycatcher,Nutting's Flycatcher,True
+445,Northern Pygmy Owl,Northern Pygmy Owl,True
+446,Common Yellowthroat,Bell's Sparrow,False
+447,Bewick's Wren,Bewick's Wren,True
+448,Warbling Vireo,Warbling Vireo,True
+449,Orange-crowned Warbler,Brewer's Sparrow,False
+450,Forster's Tern,Forster's Tern,True
+451,Yellow-breasted Chat,California Scrub Jay,False
+452,Swainson's Thrush,Swainson's Thrush,True
+453,Long-eared Owl,Western Meadowlark,False
+454,Great Horned Owl,Great Horned Owl,True
+455,Yellow-billed Magpie,Ridgway's Rail,False
+456,Ash-throated Flycatcher,Brewer's Sparrow,False
+457,California Thrasher,California Thrasher,True
+458,Elegant Tern,Elegant Tern,True
+459,Bell's Vireo,Bell's Vireo,True
+460,American Bushtit,American Bushtit,True
+461,Mountain Quail,Rufous-crowned Sparrow,False
+462,California Gnatcatcher,California Towhee,False
+463,MacGillivray's Warbler,Rock Wren,False
+464,Yellow-billed Magpie,Yellow-billed Magpie,True
+465,Anna's Hummingbird,Dark-eyed Junco,False
+466,White-breasted Nuthatch,Northern Flicker,False
+467,American Bushtit,American Bushtit,True
+468,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+469,Yellow-breasted Chat,White-breasted Nuthatch,False
+470,Spotted Towhee,Red-winged Blackbird,False
+471,Grey Vireo,Grey Vireo,True
+472,Western Screech Owl,Northern Flicker,False
+473,Grey Vireo,Grey Vireo,True
+474,Spotted Towhee,Spotted Towhee,True
+475,Swainson's Thrush,Swainson's Thrush,True
+476,Pygmy Nuthatch,Pygmy Nuthatch,True
+477,American Crow,Northern Raven,False
+478,Red-winged Blackbird,Oak Titmouse,False
+479,California Scrub Jay,California Scrub Jay,True
+480,Long-eared Owl,Lesser Goldfinch,False
+481,American Crow,American Crow,True
+482,Elegant Tern,Elegant Tern,True
+483,Phainopepla,Phainopepla,True
+484,Hermit Warbler,Hermit Warbler,True
+485,Great Horned Owl,Great Horned Owl,True
+486,American Robin,American Robin,True
+487,Black Phoebe,Black Phoebe,True
+488,Juniper Titmouse,Juniper Titmouse,True
+489,Black-chinned Sparrow,Black-chinned Sparrow,True
+490,Brewer's Sparrow,Brewer's Sparrow,True
+491,American Grey Flycatcher,American Grey Flycatcher,True
+492,American Robin,American Robin,True
+493,Warbling Vireo,Warbling Vireo,True
+494,Hutton's Vireo,Green-tailed Towhee,False
+495,Northern Flicker,Slate-colored Fox Sparrow,False
+496,Western Meadowlark,Western Meadowlark,True
+497,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+498,Lincoln's Sparrow,Lincoln's Sparrow,True
+499,Northern Flicker,Hermit Warbler,False
+500,Black-chinned Sparrow,White-headed Woodpecker,False
+501,Green-tailed Towhee,Green-tailed Towhee,True
+502,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+503,Bell's Vireo,White-headed Woodpecker,False
+504,Hermit Warbler,Hermit Warbler,True
+505,Long-eared Owl,Long-eared Owl,True
+506,American Grey Flycatcher,Bell's Sparrow,False
+507,American Robin,American Robin,True
+508,Lincoln's Sparrow,California Thrasher,False
+509,Lark Sparrow,Common Yellowthroat,False
+510,Common Yellowthroat,Song Sparrow,False
+511,Western Wood Pewee,Western Wood Pewee,True
+512,Phainopepla,California Thrasher,False
+513,Verdin,Verdin,True
+514,Lesser Goldfinch,Lesser Goldfinch,True
+515,American Crow,American Crow,True
+516,Rock Wren,Rock Wren,True
+517,Juniper Titmouse,Juniper Titmouse,True
+518,American Robin,American Robin,True
+519,Western Screech Owl,Western Screech Owl,True
+520,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+521,Great Horned Owl,Western Screech Owl,False
+522,Clark's Nutcracker,California Quail,False
+523,Forster's Tern,Forster's Tern,True
+524,Brewer's Sparrow,Brewer's Sparrow,True
+525,Black-chinned Sparrow,Lazuli Bunting,False
+526,American Crow,American Crow,True
+527,Rock Wren,Rock Wren,True
+528,Orange-crowned Warbler,Swainson's Thrush,False
+529,Swainson's Thrush,Swainson's Thrush,True
+530,Rock Wren,Rock Wren,True
+531,Black-headed Grosbeak,Black-headed Grosbeak,True
+532,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+533,Black-chinned Sparrow,Lazuli Bunting,False
+534,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+535,Lazuli Bunting,Lazuli Bunting,True
+536,California Gnatcatcher,California Gnatcatcher,True
+537,Green-tailed Towhee,Green-tailed Towhee,True
+538,Ridgway's Rail,California Scrub Jay,False
+539,Western Meadowlark,Mountain Quail,False
+540,Dark-eyed Junco,Black-tailed Gnatcatcher,False
+541,Brewer's Sparrow,California Towhee,False
+542,Yellow-breasted Chat,Bell's Vireo,False
+543,Cassin's Vireo,Red Crossbill,False
+544,Black-headed Grosbeak,Red-winged Blackbird,False
+545,Cassin's Vireo,Cassin's Vireo,True
+546,Orange-crowned Warbler,Ash-throated Flycatcher,False
+547,Lazuli Bunting,Lazuli Bunting,True
+548,American Bushtit,American Bushtit,True
+549,American Robin,American Robin,True
+550,Black-tailed Gnatcatcher,Blue-grey Gnatcatcher,False
+551,Rock Wren,House Wren,False
+552,Hermit Warbler,Hermit Warbler,True
+553,American Robin,American Robin,True
+554,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+555,Grey Vireo,Cassin's Finch,False
+556,Hermit Warbler,White-breasted Nuthatch,False
+557,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+558,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+559,Brewer's Sparrow,Black-chinned Sparrow,False
+560,Juniper Titmouse,Juniper Titmouse,True
+561,Northern Mockingbird,Northern Pygmy Owl,False
+562,Spotted Owl,Spotted Owl,True
+563,White-crowned Sparrow,White-crowned Sparrow,True
+564,Warbling Vireo,Warbling Vireo,True
+565,American Grey Flycatcher,American Grey Flycatcher,True
+566,Pacific Wren,Pacific Wren,True
+567,Mountain Quail,Northern Pygmy Owl,False
+568,Warbling Vireo,Warbling Vireo,True
+569,Ridgway's Rail,Ridgway's Rail,True
+570,Northern Mockingbird,Northern Mockingbird,True
+571,Verdin,Verdin,True
+572,Juniper Titmouse,Juniper Titmouse,True
+573,Western Screech Owl,Western Screech Owl,True
+574,House Wren,Blue-grey Gnatcatcher,False
+575,American Dusky Flycatcher,American Dusky Flycatcher,True
+576,American Grey Flycatcher,Black-chinned Sparrow,False
+577,Lark Sparrow,Lark Sparrow,True
+578,Clark's Nutcracker,Clark's Nutcracker,True
+579,Juniper Titmouse,Juniper Titmouse,True
+580,Red-winged Blackbird,Red-winged Blackbird,True
+581,Lazuli Bunting,Lazuli Bunting,True
+582,Bell's Sparrow,Bell's Sparrow,True
+583,Hermit Warbler,Hermit Warbler,True
+584,Grey Vireo,Grey Vireo,True
+585,Elegant Tern,Elegant Tern,True
+586,Hermit Warbler,Hermit Warbler,True
+587,Red-winged Blackbird,Red-winged Blackbird,True
+588,Grey Vireo,Grey Vireo,True
+589,Mountain Quail,Mountain Quail,True
+590,Brewer's Sparrow,Brewer's Sparrow,True
+591,Lazuli Bunting,Lazuli Bunting,True
+592,Cassin's Finch,Cassin's Finch,True
+593,Wrentit,Wrentit,True
+594,Nuttall's Woodpecker,Acorn Woodpecker,False
+595,Common Yellowthroat,Phainopepla,False
+596,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+597,Nutting's Flycatcher,Wilson's Warbler,False
+598,Black-headed Grosbeak,Black-headed Grosbeak,True
+599,Northern Saw-whet Owl,Northern Saw-whet Owl,True
+600,Pacific Wren,Pacific Wren,True
+601,Spotted Towhee,Spotted Towhee,True
+602,White-crowned Sparrow,White-crowned Sparrow,True
+603,Lark Sparrow,Lark Sparrow,True
+604,American Dusky Flycatcher,American Dusky Flycatcher,True
+605,Spotted Owl,American Crow,False
+606,Bell's Sparrow,Bell's Sparrow,True
+607,American Robin,Hermit Thrush,False
+608,Black-chinned Sparrow,Black-chinned Sparrow,True
+609,American Bushtit,American Bushtit,True
+610,Lincoln's Sparrow,Lincoln's Sparrow,True
+611,Western Wood Pewee,Western Wood Pewee,True
+612,Ridgway's Rail,Rufous-crowned Sparrow,False
+613,Cassin's Vireo,Cassin's Vireo,True
+614,Lark Sparrow,Lark Sparrow,True
+615,Lesser Goldfinch,Lesser Goldfinch,True
+616,Nutting's Flycatcher,Nutting's Flycatcher,True
+617,White-headed Woodpecker,White-headed Woodpecker,True
+618,American Grey Flycatcher,American Grey Flycatcher,True
+619,House Finch,House Finch,True
+620,Nutting's Flycatcher,Nutting's Flycatcher,True
+621,Spotted Towhee,California Scrub Jay,False
+622,Black-headed Grosbeak,Black-headed Grosbeak,True
+623,American Grey Flycatcher,White-breasted Nuthatch,False
+624,Long-eared Owl,Long-eared Owl,True
+625,Northern Mockingbird,Oak Titmouse,False
+626,Black-chinned Sparrow,Black-chinned Sparrow,True
+627,Slate-colored Fox Sparrow,Bell's Sparrow,False
+628,Clark's Nutcracker,Clark's Nutcracker,True
+629,Flammulated Owl,Flammulated Owl,True
+630,Red-winged Blackbird,Red-winged Blackbird,True
+631,Red-winged Blackbird,Red-winged Blackbird,True
+632,Hermit Warbler,Song Sparrow,False
+633,House Wren,Nutting's Flycatcher,False
+634,American Robin,American Robin,True
+635,Grey Vireo,Grey Vireo,True
+636,Pygmy Nuthatch,Bell's Vireo,False
+637,American Bushtit,American Bushtit,True
+638,Swainson's Thrush,Swainson's Thrush,True
+639,Canyon Wren,Canyon Wren,True
+640,Pacific-slope Flycatcher,Pacific-slope Flycatcher,True
+641,Bewick's Wren,White-crowned Sparrow,False
+642,Swainson's Thrush,Swainson's Thrush,True
+643,White-breasted Nuthatch,Nutting's Flycatcher,False
+644,American Grey Flycatcher,American Grey Flycatcher,True
+645,Elegant Tern,Elegant Tern,True
+646,Abert's Towhee,Abert's Towhee,True
+647,Hutton's Vireo,Slate-colored Fox Sparrow,False
+648,Marsh Wren,Marsh Wren,True
+649,Common Yellowthroat,Common Yellowthroat,True
+650,Bewick's Wren,Bewick's Wren,True
+651,Pacific Wren,Slate-colored Fox Sparrow,False
+652,Mountain Chickadee,Juniper Titmouse,False
+653,Lesser Goldfinch,Lesser Goldfinch,True
+654,Cassin's Vireo,Song Sparrow,False
+655,Wrentit,Pygmy Nuthatch,False
+656,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+657,Lark Sparrow,Northern Flicker,False
+658,Hermit Warbler,Hermit Warbler,True
+659,Flammulated Owl,Flammulated Owl,True
+660,Bewick's Wren,Bell's Vireo,False
+661,Western Wood Pewee,Western Screech Owl,False
+662,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+663,Wilson's Warbler,Pacific-slope Flycatcher,False
+664,Spotted Owl,Spotted Owl,True
+665,Abert's Towhee,Chestnut-backed Chickadee,False
+666,Western Wood Pewee,Western Wood Pewee,True
+667,Juniper Titmouse,Northern Mockingbird,False
+668,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+669,Yellow-breasted Chat,Yellow-breasted Chat,True
+670,Black-headed Grosbeak,Black-headed Grosbeak,True
+671,Slate-colored Fox Sparrow,American Grey Flycatcher,False
+672,MacGillivray's Warbler,MacGillivray's Warbler,True
+673,White-breasted Nuthatch,Ash-throated Flycatcher,False
+674,Hermit Thrush,Lesser Goldfinch,False
+675,Cassin's Vireo,Nutting's Flycatcher,False
+676,American Grey Flycatcher,Green-tailed Towhee,False
+677,Verdin,Verdin,True
+678,Lark Sparrow,Bell's Sparrow,False
+679,Wilson's Warbler,Wilson's Warbler,True
+680,House Finch,House Finch,True
+681,American Dusky Flycatcher,American Dusky Flycatcher,True
+682,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+683,Hermit Warbler,Hermit Warbler,True
+684,Rock Wren,Rock Wren,True
+685,Pacific-slope Flycatcher,Common Yellowthroat,False
+686,California Quail,Black-tailed Gnatcatcher,False
+687,Great Horned Owl,Great Horned Owl,True
+688,Forster's Tern,Forster's Tern,True
+689,White-headed Woodpecker,White-headed Woodpecker,True
+690,Hermit Warbler,Hermit Warbler,True
+691,Phainopepla,Phainopepla,True
+692,Great Horned Owl,Great Horned Owl,True
+693,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+694,Lark Sparrow,Lark Sparrow,True
+695,American Dusky Flycatcher,American Dusky Flycatcher,True
+696,American Crow,American Crow,True
+697,Acorn Woodpecker,Lazuli Bunting,False
+698,Hermit Thrush,Hermit Thrush,True
+699,Lark Sparrow,Lark Sparrow,True
+700,Clark's Nutcracker,Clark's Nutcracker,True
+701,Bewick's Wren,Green-tailed Towhee,False
+702,American Robin,American Robin,True
+703,American Crow,American Crow,True
+704,Hutton's Vireo,Hutton's Vireo,True
+705,Canyon Wren,Canyon Wren,True
+706,Black-chinned Sparrow,Black-chinned Sparrow,True
+707,American Dusky Flycatcher,American Dusky Flycatcher,True
+708,Wilson's Warbler,Wilson's Warbler,True
+709,House Finch,House Finch,True
+710,Lincoln's Sparrow,Lincoln's Sparrow,True
+711,Northern Mockingbird,Northern Mockingbird,True
+712,Swainson's Thrush,Swainson's Thrush,True
+713,Lark Sparrow,Lark Sparrow,True
+714,California Gnatcatcher,Anna's Hummingbird,False
+715,White-crowned Sparrow,White-crowned Sparrow,True
+716,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+717,Western Screech Owl,Western Screech Owl,True
+718,Great Horned Owl,Great Horned Owl,True
+719,Cassin's Vireo,Cassin's Vireo,True
+720,Brewer's Sparrow,Brewer's Sparrow,True
+721,Lark Sparrow,Lark Sparrow,True
+722,American Dusky Flycatcher,American Dusky Flycatcher,True
+723,Verdin,Verdin,True
+724,Western Wood Pewee,Western Wood Pewee,True
+725,Black-chinned Sparrow,Black-chinned Sparrow,True
+726,Spotted Towhee,Spotted Towhee,True
+727,Wilson's Warbler,Wilson's Warbler,True
+728,Grey Vireo,Grey Vireo,True
+729,Lark Sparrow,Lark Sparrow,True
+730,Abert's Towhee,Pygmy Nuthatch,False
+731,Spotted Owl,Spotted Owl,True
+732,Lazuli Bunting,Lazuli Bunting,True
+733,American Crow,American Crow,True
+734,Lark Sparrow,Lark Sparrow,True
+735,Bell's Vireo,American Dusky Flycatcher,False
+736,Rock Wren,Rock Wren,True
+737,Orange-crowned Warbler,Black-tailed Gnatcatcher,False
+738,Wilson's Warbler,Dark-eyed Junco,False
+739,Pygmy Nuthatch,Pygmy Nuthatch,True
+740,Flammulated Owl,Flammulated Owl,True
+741,Orange-crowned Warbler,Orange-crowned Warbler,True
+742,Anna's Hummingbird,American Bushtit,False
+743,Bell's Vireo,Bell's Vireo,True
+744,Yellow-breasted Chat,Yellow-breasted Chat,True
+745,Red-winged Blackbird,Red-winged Blackbird,True
+746,Long-eared Owl,Clark's Nutcracker,False
+747,Black-chinned Sparrow,Black-chinned Sparrow,True
+748,Juniper Titmouse,Western Meadowlark,False
+749,Northern Mockingbird,Northern Mockingbird,True
+750,Northern Saw-whet Owl,Northern Saw-whet Owl,True
+751,Lincoln's Sparrow,Lincoln's Sparrow,True
+752,Northern Mockingbird,Northern Mockingbird,True
+753,MacGillivray's Warbler,Slate-colored Fox Sparrow,False
+754,Juniper Titmouse,Bewick's Wren,False
+755,Nuttall's Woodpecker,Common Yellowthroat,False
+756,Western Screech Owl,Western Screech Owl,True
+757,Flammulated Owl,Flammulated Owl,True
+758,Northern Mockingbird,Forster's Tern,False
+759,Verdin,Blue-grey Gnatcatcher,False
+760,Black-headed Grosbeak,MacGillivray's Warbler,False
+761,Phainopepla,Phainopepla,True
+762,Western Wood Pewee,Mountain Chickadee,False
+763,Abert's Towhee,Abert's Towhee,True
+764,Verdin,Verdin,True
+765,Great Horned Owl,Great Horned Owl,True
+766,Canyon Wren,Canyon Wren,True
+767,Black Phoebe,American Dusky Flycatcher,False
+768,Long-eared Owl,Long-eared Owl,True
+769,Lark Sparrow,Lincoln's Sparrow,False
+770,Lincoln's Sparrow,Lincoln's Sparrow,True
+771,Yellow-billed Magpie,Yellow-billed Magpie,True
+772,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+773,Western Meadowlark,Western Meadowlark,True
+774,Clark's Nutcracker,Clark's Nutcracker,True
+775,Northern Mockingbird,Swainson's Thrush,False
+776,White-headed Woodpecker,White-headed Woodpecker,True
+777,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+778,Western Meadowlark,Lark Sparrow,False
+779,Cassin's Vireo,Cassin's Vireo,True
+780,California Thrasher,California Thrasher,True
+781,Grey Vireo,Juniper Titmouse,False
+782,American Robin,American Robin,True
+783,Yellow-breasted Chat,Yellow-breasted Chat,True
+784,American Robin,Orange-crowned Warbler,False
+785,Pacific Wren,Pacific Wren,True
+786,Snow Goose,Snow Goose,True
+787,Long-eared Owl,Long-eared Owl,True
+788,American Dusky Flycatcher,Black-tailed Gnatcatcher,False
+789,American Crow,American Crow,True
+790,Forster's Tern,Forster's Tern,True
+791,Marsh Wren,Marsh Wren,True
+792,Lincoln's Sparrow,Lincoln's Sparrow,True
+793,Brewer's Sparrow,Rock Wren,False
+794,American Dusky Flycatcher,American Dusky Flycatcher,True
+795,Slate-colored Fox Sparrow,American Dusky Flycatcher,False
+796,Thick-billed Fox Sparrow,Thick-billed Fox Sparrow,True
+797,Rock Wren,Rock Wren,True
+798,Long-eared Owl,Long-eared Owl,True
+799,Lesser Goldfinch,Red-winged Blackbird,False
+800,Hutton's Vireo,Common Yellowthroat,False
+801,Brewer's Sparrow,Anna's Hummingbird,False
+802,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+803,Bewick's Wren,Lincoln's Sparrow,False
+804,Acorn Woodpecker,California Quail,False
+805,Northern Mockingbird,Northern Mockingbird,True
+806,Lark Sparrow,Juniper Titmouse,False
+807,Black Phoebe,Blue-grey Gnatcatcher,False
+808,Rock Wren,Rock Wren,True
+809,Rock Wren,Rock Wren,True
+810,Lazuli Bunting,Lazuli Bunting,True
+811,American Grey Flycatcher,American Grey Flycatcher,True
+812,California Quail,California Quail,True
+813,California Quail,California Quail,True
+814,Western Wood Pewee,Western Wood Pewee,True
+815,Northern Raven,Northern Raven,True
+816,Warbling Vireo,Warbling Vireo,True
+817,Black-chinned Sparrow,Black-chinned Sparrow,True
+818,Elegant Tern,Forster's Tern,False
+819,Hermit Thrush,Northern Saw-whet Owl,False
+820,Pacific Wren,Dark-eyed Junco,False
+821,Hermit Warbler,MacGillivray's Warbler,False
+822,Hermit Thrush,Hermit Thrush,True
+823,Grey Vireo,Grey Vireo,True
+824,Green-tailed Towhee,Green-tailed Towhee,True
+825,American Dusky Flycatcher,American Dusky Flycatcher,True
+826,Black-chinned Sparrow,Black-chinned Sparrow,True
+827,Verdin,Verdin,True
+828,Flammulated Owl,Flammulated Owl,True
+829,Flammulated Owl,Flammulated Owl,True
+830,California Quail,Acorn Woodpecker,False
+831,Nutting's Flycatcher,Nutting's Flycatcher,True
+832,Wilson's Warbler,Dark-eyed Junco,False
+833,Lark Sparrow,Lark Sparrow,True
+834,Northern Flicker,Swainson's Thrush,False
+835,Lark Sparrow,Lark Sparrow,True
+836,Flammulated Owl,Flammulated Owl,True
+837,Swainson's Thrush,Swainson's Thrush,True
+838,Thick-billed Fox Sparrow,Thick-billed Fox Sparrow,True
+839,Ridgway's Rail,Marsh Wren,False
+840,Black-chinned Sparrow,Black-chinned Sparrow,True
+841,Pygmy Nuthatch,Pygmy Nuthatch,True
+842,Orange-crowned Warbler,Wilson's Warbler,False
+843,Cassin's Vireo,Pygmy Nuthatch,False
+844,Cassin's Finch,Cassin's Finch,True
+845,Grey Vireo,Grey Vireo,True
+846,Western Wood Pewee,Western Wood Pewee,True
+847,Northern Mockingbird,Northern Mockingbird,True
+848,Snow Goose,Snow Goose,True
+849,Common Poorwill,Common Poorwill,True
+850,Northern Mockingbird,Northern Mockingbird,True
+851,Grey Vireo,Grey Vireo,True
+852,Swainson's Thrush,Swainson's Thrush,True
+853,Orange-crowned Warbler,Song Sparrow,False
+854,Grey Vireo,Grey Vireo,True
+855,Nutting's Flycatcher,Nutting's Flycatcher,True
+856,Swainson's Thrush,Chestnut-backed Chickadee,False
+857,House Finch,House Finch,True
+858,Western Wood Pewee,Ash-throated Flycatcher,False
+859,Hermit Warbler,Hermit Warbler,True
+860,California Gnatcatcher,California Towhee,False
+861,Snow Goose,Snow Goose,True
+862,Dark-eyed Junco,Black-chinned Sparrow,False
+863,White-headed Woodpecker,Hermit Thrush,False
+864,Brewer's Sparrow,Orange-crowned Warbler,False
+865,Flammulated Owl,Flammulated Owl,True
+866,Hutton's Vireo,Hutton's Vireo,True
+867,Flammulated Owl,Flammulated Owl,True
+868,Tricolored Blackbird,Nutting's Flycatcher,False
+869,MacGillivray's Warbler,Black-chinned Sparrow,False
+870,Abert's Towhee,Abert's Towhee,True
+871,Western Screech Owl,Western Screech Owl,True
+872,Western Screech Owl,Western Screech Owl,True
+873,Canyon Wren,Canyon Wren,True
+874,Yellow-breasted Chat,Yellow-breasted Chat,True
+875,Verdin,Rock Wren,False
+876,Black-tailed Gnatcatcher,Rufous-crowned Sparrow,False
+877,Yellow-billed Magpie,Yellow-billed Magpie,True
+878,Blue-grey Gnatcatcher,Song Sparrow,False
+879,Hermit Warbler,Hermit Warbler,True
+880,Brewer's Sparrow,Brewer's Sparrow,True
+881,Common Poorwill,Common Poorwill,True
+882,Wilson's Warbler,Wilson's Warbler,True
+883,Forster's Tern,Forster's Tern,True
+884,Steller's Jay,Ridgway's Rail,False
+885,Northern Flicker,Lazuli Bunting,False
+886,Red-winged Blackbird,Red-winged Blackbird,True
+887,Hermit Warbler,Hermit Warbler,True
+888,Northern Mockingbird,Northern Mockingbird,True
+889,Rock Wren,Rock Wren,True
+890,Lazuli Bunting,Lazuli Bunting,True
+891,Rock Wren,Rock Wren,True
+892,California Thrasher,Hermit Thrush,False
+893,MacGillivray's Warbler,MacGillivray's Warbler,True
+894,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+895,Mountain Chickadee,White-breasted Nuthatch,False
+896,Juniper Titmouse,Juniper Titmouse,True
+897,Canyon Wren,Northern Mockingbird,False
+898,Blue-grey Gnatcatcher,American Bushtit,False
+899,Abert's Towhee,Bell's Sparrow,False
+900,Swainson's Thrush,Swainson's Thrush,True
+901,Pacific Wren,Wilson's Warbler,False
+902,American Grey Flycatcher,American Grey Flycatcher,True
+903,Grey Vireo,Ash-throated Flycatcher,False
+904,Steller's Jay,Nuttall's Woodpecker,False
+905,Northern Flicker,Lincoln's Sparrow,False
+906,House Finch,House Finch,True
+907,Western Screech Owl,Western Screech Owl,True
+908,Oak Titmouse,Oak Titmouse,True
+909,Lincoln's Sparrow,Lincoln's Sparrow,True
+910,Snow Goose,Northern Raven,False
+911,Hermit Warbler,Hermit Warbler,True
+912,Mountain Quail,Mountain Quail,True
+913,Ridgway's Rail,Canyon Wren,False
+914,Elegant Tern,Elegant Tern,True
+915,Flammulated Owl,Flammulated Owl,True
+916,Wilson's Warbler,MacGillivray's Warbler,False
+917,Western Meadowlark,Western Meadowlark,True
+918,Yellow-breasted Chat,Yellow-breasted Chat,True
+919,House Finch,House Finch,True
+920,Warbling Vireo,Warbling Vireo,True
+921,White-crowned Sparrow,Green-tailed Towhee,False
+922,Cassin's Vireo,Bell's Vireo,False
+923,Cassin's Finch,Cassin's Finch,True
+924,Red-winged Blackbird,Oak Titmouse,False
+925,Bell's Vireo,Cassin's Finch,False
+926,Orange-crowned Warbler,Orange-crowned Warbler,True
+927,Black-chinned Sparrow,Dark-eyed Junco,False
+928,Chestnut-backed Chickadee,Hermit Warbler,False
+929,Snow Goose,Snow Goose,True
+930,Ash-throated Flycatcher,Hermit Thrush,False
+931,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+932,Black-chinned Sparrow,Lark Sparrow,False
+933,Bewick's Wren,Mountain Chickadee,False
+934,American Dusky Flycatcher,Northern Flicker,False
+935,Ash-throated Flycatcher,Swainson's Thrush,False
+936,Hutton's Vireo,Verdin,False
+937,American Bushtit,American Bushtit,True
+938,Hermit Thrush,Spotted Towhee,False
+939,Lark Sparrow,Lark Sparrow,True
+940,White-headed Woodpecker,White-headed Woodpecker,True
+941,Verdin,Verdin,True
+942,White-headed Woodpecker,White-headed Woodpecker,True
+943,American Grey Flycatcher,American Grey Flycatcher,True
+944,Cassin's Vireo,Cassin's Vireo,True
+945,Nutting's Flycatcher,American Crow,False
+946,Northern Mockingbird,Northern Mockingbird,True
+947,Lark Sparrow,Lark Sparrow,True
+948,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+949,Cassin's Vireo,Green-tailed Towhee,False
+950,Black-chinned Sparrow,Black-chinned Sparrow,True
+951,Mountain Quail,Mountain Quail,True
+952,Marsh Wren,Marsh Wren,True
+953,Black-chinned Sparrow,Abert's Towhee,False
+954,Hermit Thrush,Hermit Thrush,True
+955,Black-headed Grosbeak,White-crowned Sparrow,False
+956,Phainopepla,Phainopepla,True
+957,Flammulated Owl,Flammulated Owl,True
+958,Lark Sparrow,Bell's Vireo,False
+959,Brewer's Sparrow,Brewer's Sparrow,True
+960,Northern Saw-whet Owl,Northern Saw-whet Owl,True
+961,Lark Sparrow,Lark Sparrow,True
+962,Ash-throated Flycatcher,Juniper Titmouse,False
+963,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+964,California Gnatcatcher,California Gnatcatcher,True
+965,American Dusky Flycatcher,Verdin,False
+966,Brewer's Sparrow,Brewer's Sparrow,True
+967,Lark Sparrow,Northern Mockingbird,False
+968,Cassin's Vireo,Nuttall's Woodpecker,False
+969,Juniper Titmouse,Juniper Titmouse,True
+970,Rock Wren,Rock Wren,True
+971,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+972,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+973,Northern Pygmy Owl,Northern Pygmy Owl,True
+974,American Dusky Flycatcher,American Dusky Flycatcher,True
+975,Grey Vireo,Northern Mockingbird,False
+976,Yellow-breasted Chat,Yellow-breasted Chat,True
+977,Acorn Woodpecker,Black-tailed Gnatcatcher,False
+978,Northern Raven,Black-headed Grosbeak,False
+979,Song Sparrow,Anna's Hummingbird,False
+980,Ash-throated Flycatcher,Western Wood Pewee,False
+981,Hermit Warbler,Swainson's Thrush,False
+982,Pygmy Nuthatch,Pygmy Nuthatch,True
+983,Wilson's Warbler,Wilson's Warbler,True
+984,Slate-colored Fox Sparrow,Green-tailed Towhee,False
+985,Lazuli Bunting,Lazuli Bunting,True
+986,Warbling Vireo,Warbling Vireo,True
+987,Hermit Warbler,Hermit Warbler,True
+988,Lincoln's Sparrow,Lincoln's Sparrow,True
+989,Phainopepla,Phainopepla,True
+990,Long-eared Owl,Flammulated Owl,False
+991,Common Yellowthroat,Common Yellowthroat,True
+992,Nutting's Flycatcher,Wilson's Warbler,False
+993,Pygmy Nuthatch,Song Sparrow,False
+994,Pygmy Nuthatch,Pygmy Nuthatch,True
+995,Cassin's Vireo,Cassin's Vireo,True
+996,Oak Titmouse,Oak Titmouse,True
+997,American Robin,American Robin,True
+998,House Finch,Lesser Goldfinch,False
+999,White-headed Woodpecker,White-headed Woodpecker,True
+1000,Dark-eyed Junco,Green-tailed Towhee,False
+1001,Rock Wren,Rock Wren,True
+1002,Lincoln's Sparrow,Lincoln's Sparrow,True
+1003,Northern Mockingbird,House Wren,False
+1004,Hermit Warbler,Hermit Warbler,True
+1005,Western Meadowlark,Spotted Owl,False
+1006,Black-chinned Sparrow,Black-chinned Sparrow,True
+1007,Orange-crowned Warbler,Black-chinned Sparrow,False
+1008,Nutting's Flycatcher,Nutting's Flycatcher,True
+1009,Red-winged Blackbird,Nuttall's Woodpecker,False
+1010,Hermit Warbler,Hermit Warbler,True
+1011,American Robin,White-headed Woodpecker,False
+1012,Great Horned Owl,Great Horned Owl,True
+1013,Orange-crowned Warbler,Acorn Woodpecker,False
+1014,Northern Raven,Northern Raven,True
+1015,Northern Mockingbird,Northern Mockingbird,True
+1016,Brewer's Sparrow,Brewer's Sparrow,True
+1017,Northern Pygmy Owl,Northern Pygmy Owl,True
+1018,Northern Mockingbird,Northern Mockingbird,True
+1019,White-breasted Nuthatch,White-breasted Nuthatch,True
+1020,MacGillivray's Warbler,MacGillivray's Warbler,True
+1021,American Grey Flycatcher,American Grey Flycatcher,True
+1022,Common Yellowthroat,Common Yellowthroat,True
+1023,Tricolored Blackbird,American Robin,False
+1024,White-crowned Sparrow,Bell's Sparrow,False
+1025,Yellow-breasted Chat,Red-winged Blackbird,False
+1026,Hermit Warbler,Hermit Warbler,True
+1027,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+1028,Swainson's Thrush,Swainson's Thrush,True
+1029,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1030,Thick-billed Fox Sparrow,Thick-billed Fox Sparrow,True
+1031,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+1032,American Grey Flycatcher,American Grey Flycatcher,True
+1033,Black-headed Grosbeak,Black-headed Grosbeak,True
+1034,Swainson's Thrush,Swainson's Thrush,True
+1035,Hermit Warbler,California Towhee,False
+1036,American Robin,Cassin's Vireo,False
+1037,Lark Sparrow,Lark Sparrow,True
+1038,California Thrasher,California Thrasher,True
+1039,Northern Raven,White-headed Woodpecker,False
+1040,Ridgway's Rail,Ridgway's Rail,True
+1041,California Towhee,California Towhee,True
+1042,Grey Vireo,Grey Vireo,True
+1043,Grey Vireo,Grey Vireo,True
+1044,Western Meadowlark,Western Meadowlark,True
+1045,American Robin,American Robin,True
+1046,Grey Vireo,Northern Mockingbird,False
+1047,Swainson's Thrush,Swainson's Thrush,True
+1048,Black-chinned Sparrow,Black-chinned Sparrow,True
+1049,Lincoln's Sparrow,Lincoln's Sparrow,True
+1050,Hutton's Vireo,House Finch,False
+1051,Warbling Vireo,Warbling Vireo,True
+1052,American Robin,American Robin,True
+1053,Hutton's Vireo,Hutton's Vireo,True
+1054,Great Horned Owl,Great Horned Owl,True
+1055,Slate-colored Fox Sparrow,Blue-grey Gnatcatcher,False
+1056,Orange-crowned Warbler,Orange-crowned Warbler,True
+1057,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+1058,Rock Wren,Rock Wren,True
+1059,Spotted Owl,Spotted Owl,True
+1060,Red-winged Blackbird,Red-winged Blackbird,True
+1061,Dark-eyed Junco,Mountain Chickadee,False
+1062,Wrentit,Bell's Sparrow,False
+1063,Forster's Tern,Forster's Tern,True
+1064,Song Sparrow,Abert's Towhee,False
+1065,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+1066,Lark Sparrow,Lark Sparrow,True
+1067,Slate-colored Fox Sparrow,California Towhee,False
+1068,American Grey Flycatcher,American Grey Flycatcher,True
+1069,Mountain Quail,Mountain Quail,True
+1070,California Thrasher,California Thrasher,True
+1071,Flammulated Owl,Flammulated Owl,True
+1072,Red-winged Blackbird,Yellow-breasted Chat,False
+1073,American Robin,American Robin,True
+1074,American Grey Flycatcher,Green-tailed Towhee,False
+1075,Common Yellowthroat,Common Yellowthroat,True
+1076,Black-headed Grosbeak,Black-headed Grosbeak,True
+1077,Lincoln's Sparrow,Northern Mockingbird,False
+1078,Lincoln's Sparrow,Abert's Towhee,False
+1079,Nutting's Flycatcher,Nutting's Flycatcher,True
+1080,Lincoln's Sparrow,Lincoln's Sparrow,True
+1081,California Scrub Jay,Northern Mockingbird,False
+1082,Cassin's Vireo,Bell's Vireo,False
+1083,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1084,American Robin,American Robin,True
+1085,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+1086,Canyon Wren,Canyon Wren,True
+1087,Cassin's Vireo,Cassin's Vireo,True
+1088,Hermit Warbler,Hermit Warbler,True
+1089,Cassin's Finch,Bell's Vireo,False
+1090,Cassin's Finch,Canyon Wren,False
+1091,White-breasted Nuthatch,White-breasted Nuthatch,True
+1092,MacGillivray's Warbler,Lazuli Bunting,False
+1093,Phainopepla,Phainopepla,True
+1094,White-headed Woodpecker,White-headed Woodpecker,True
+1095,Northern Mockingbird,Northern Mockingbird,True
+1096,Western Wood Pewee,Abert's Towhee,False
+1097,Cassin's Vireo,Cassin's Vireo,True
+1098,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1099,House Finch,House Finch,True
+1100,Yellow-breasted Chat,Yellow-breasted Chat,True
+1101,Phainopepla,Phainopepla,True
+1102,Common Poorwill,Common Poorwill,True
+1103,Brewer's Sparrow,Brewer's Sparrow,True
+1104,Pygmy Nuthatch,Pygmy Nuthatch,True
+1105,Lark Sparrow,Lark Sparrow,True
+1106,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+1107,Red-winged Blackbird,House Wren,False
+1108,Western Wood Pewee,Cassin's Vireo,False
+1109,Lark Sparrow,Lincoln's Sparrow,False
+1110,Grey Vireo,Grey Vireo,True
+1111,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+1112,Yellow-breasted Chat,Yellow-breasted Chat,True
+1113,Wrentit,Wrentit,True
+1114,Anna's Hummingbird,Anna's Hummingbird,True
+1115,American Robin,American Robin,True
+1116,Thick-billed Fox Sparrow,Lincoln's Sparrow,False
+1117,Rock Wren,Canyon Wren,False
+1118,Northern Mockingbird,Northern Mockingbird,True
+1119,Western Wood Pewee,Canyon Wren,False
+1120,Yellow-breasted Chat,Yellow-breasted Chat,True
+1121,American Crow,American Crow,True
+1122,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+1123,California Towhee,California Towhee,True
+1124,Brewer's Sparrow,Brewer's Sparrow,True
+1125,House Finch,House Finch,True
+1126,Black-tailed Gnatcatcher,Snow Goose,False
+1127,Juniper Titmouse,Juniper Titmouse,True
+1128,Yellow-breasted Chat,Phainopepla,False
+1129,Northern Raven,Northern Raven,True
+1130,Bell's Vireo,Bell's Vireo,True
+1131,Hermit Warbler,Chestnut-backed Chickadee,False
+1132,Mountain Chickadee,Mountain Chickadee,True
+1133,Hermit Warbler,Brewer's Sparrow,False
+1134,Cassin's Vireo,Cassin's Vireo,True
+1135,Grey Vireo,Hermit Thrush,False
+1136,Marsh Wren,Marsh Wren,True
+1137,California Thrasher,Northern Mockingbird,False
+1138,Verdin,MacGillivray's Warbler,False
+1139,American Robin,American Robin,True
+1140,Tricolored Blackbird,Tricolored Blackbird,True
+1141,Wilson's Warbler,Wilson's Warbler,True
+1142,Western Meadowlark,Western Meadowlark,True
+1143,Western Screech Owl,Western Screech Owl,True
+1144,American Dusky Flycatcher,Slate-colored Fox Sparrow,False
+1145,American Robin,American Robin,True
+1146,Yellow-breasted Chat,Yellow-breasted Chat,True
+1147,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1148,American Bushtit,American Bushtit,True
+1149,California Thrasher,Acorn Woodpecker,False
+1150,Yellow-billed Magpie,Yellow-billed Magpie,True
+1151,Lincoln's Sparrow,Lincoln's Sparrow,True
+1152,Bell's Sparrow,Bell's Sparrow,True
+1153,Swainson's Thrush,Swainson's Thrush,True
+1154,Western Wood Pewee,Western Wood Pewee,True
+1155,Hutton's Vireo,Hutton's Vireo,True
+1156,Northern Mockingbird,Northern Mockingbird,True
+1157,Great Horned Owl,Great Horned Owl,True
+1158,Yellow-breasted Chat,Yellow-breasted Chat,True
+1159,Hermit Warbler,Hermit Warbler,True
+1160,Canyon Wren,Rock Wren,False
+1161,Black-chinned Sparrow,Black-chinned Sparrow,True
+1162,Verdin,MacGillivray's Warbler,False
+1163,Ridgway's Rail,Red Crossbill,False
+1164,Tricolored Blackbird,Tricolored Blackbird,True
+1165,Western Meadowlark,Western Meadowlark,True
+1166,Hermit Warbler,Hermit Warbler,True
+1167,Northern Mockingbird,Northern Mockingbird,True
+1168,Lincoln's Sparrow,Lincoln's Sparrow,True
+1169,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1170,Red Crossbill,Red Crossbill,True
+1171,Brewer's Sparrow,Brewer's Sparrow,True
+1172,House Wren,House Wren,True
+1173,Phainopepla,Phainopepla,True
+1174,Lark Sparrow,Lark Sparrow,True
+1175,California Thrasher,Phainopepla,False
+1176,Lincoln's Sparrow,Lark Sparrow,False
+1177,Rock Wren,Rock Wren,True
+1178,Bell's Sparrow,Dark-eyed Junco,False
+1179,American Crow,Rock Wren,False
+1180,Yellow-breasted Chat,Yellow-breasted Chat,True
+1181,Pygmy Nuthatch,Pygmy Nuthatch,True
+1182,Brewer's Sparrow,Brewer's Sparrow,True
+1183,Grey Vireo,American Grey Flycatcher,False
+1184,Brewer's Sparrow,Brewer's Sparrow,True
+1185,House Finch,House Finch,True
+1186,Snow Goose,California Quail,False
+1187,Swainson's Thrush,Swainson's Thrush,True
+1188,Wilson's Warbler,Wilson's Warbler,True
+1189,American Grey Flycatcher,American Dusky Flycatcher,False
+1190,Lark Sparrow,Western Wood Pewee,False
+1191,Pygmy Nuthatch,American Robin,False
+1192,American Grey Flycatcher,Black-tailed Gnatcatcher,False
+1193,Ash-throated Flycatcher,Lesser Goldfinch,False
+1194,Acorn Woodpecker,Acorn Woodpecker,True
+1195,Flammulated Owl,Flammulated Owl,True
+1196,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1197,Lesser Goldfinch,Lesser Goldfinch,True
+1198,Black-chinned Sparrow,Black-chinned Sparrow,True
+1199,Rock Wren,Rock Wren,True
+1200,American Grey Flycatcher,American Grey Flycatcher,True
+1201,Thick-billed Fox Sparrow,Green-tailed Towhee,False
+1202,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+1203,Yellow-breasted Chat,Yellow-breasted Chat,True
+1204,Brewer's Sparrow,Brewer's Sparrow,True
+1205,Nutting's Flycatcher,Nutting's Flycatcher,True
+1206,Lark Sparrow,Lark Sparrow,True
+1207,Hermit Thrush,Western Meadowlark,False
+1208,Western Meadowlark,Western Meadowlark,True
+1209,Black-headed Grosbeak,American Robin,False
+1210,Orange-crowned Warbler,Orange-crowned Warbler,True
+1211,American Dusky Flycatcher,American Dusky Flycatcher,True
+1212,Long-eared Owl,Long-eared Owl,True
+1213,White-breasted Nuthatch,Western Meadowlark,False
+1214,Yellow-breasted Chat,Yellow-breasted Chat,True
+1215,Lark Sparrow,Blue-grey Gnatcatcher,False
+1216,Northern Mockingbird,California Thrasher,False
+1217,Hutton's Vireo,Hutton's Vireo,True
+1218,Yellow-billed Magpie,Yellow-billed Magpie,True
+1219,Common Yellowthroat,Lazuli Bunting,False
+1220,Phainopepla,Phainopepla,True
+1221,Slate-colored Fox Sparrow,Green-tailed Towhee,False
+1222,Cassin's Finch,Rock Wren,False
+1223,Swainson's Thrush,Swainson's Thrush,True
+1224,Great Horned Owl,Great Horned Owl,True
+1225,Juniper Titmouse,Steller's Jay,False
+1226,Common Yellowthroat,Common Yellowthroat,True
+1227,Northern Flicker,Northern Flicker,True
+1228,Verdin,Verdin,True
+1229,Northern Pygmy Owl,Northern Pygmy Owl,True
+1230,Black-chinned Sparrow,Black-chinned Sparrow,True
+1231,California Quail,Northern Flicker,False
+1232,Warbling Vireo,Warbling Vireo,True
+1233,Yellow-breasted Chat,Mountain Chickadee,False
+1234,Nutting's Flycatcher,American Robin,False
+1235,Clark's Nutcracker,Clark's Nutcracker,True
+1236,Cassin's Finch,Cassin's Finch,True
+1237,Lazuli Bunting,Lazuli Bunting,True
+1238,Cassin's Vireo,Cassin's Finch,False
+1239,Slate-colored Fox Sparrow,American Dusky Flycatcher,False
+1240,Lark Sparrow,Lark Sparrow,True
+1241,Yellow-breasted Chat,Bell's Vireo,False
+1242,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+1243,Great Horned Owl,Great Horned Owl,True
+1244,Juniper Titmouse,Juniper Titmouse,True
+1245,Spotted Owl,Spotted Owl,True
+1246,White-breasted Nuthatch,Snow Goose,False
+1247,Lark Sparrow,Juniper Titmouse,False
+1248,House Finch,Pygmy Nuthatch,False
+1249,American Dusky Flycatcher,American Dusky Flycatcher,True
+1250,Warbling Vireo,Warbling Vireo,True
+1251,Hermit Thrush,Hermit Thrush,True
+1252,Long-eared Owl,Long-eared Owl,True
+1253,Lincoln's Sparrow,Lincoln's Sparrow,True
+1254,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+1255,Hermit Thrush,Hermit Thrush,True
+1256,Rock Wren,Rock Wren,True
+1257,Juniper Titmouse,American Grey Flycatcher,False
+1258,Ash-throated Flycatcher,Common Yellowthroat,False
+1259,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1260,Hutton's Vireo,Hutton's Vireo,True
+1261,Ridgway's Rail,Ridgway's Rail,True
+1262,Black-tailed Gnatcatcher,Nuttall's Woodpecker,False
+1263,Rufous-crowned Sparrow,Northern Mockingbird,False
+1264,Wrentit,Northern Mockingbird,False
+1265,Common Poorwill,Common Poorwill,True
+1266,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+1267,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+1268,Bewick's Wren,Cassin's Vireo,False
+1269,Juniper Titmouse,Juniper Titmouse,True
+1270,Nutting's Flycatcher,Nutting's Flycatcher,True
+1271,Cassin's Vireo,Cassin's Vireo,True
+1272,American Robin,American Robin,True
+1273,Western Wood Pewee,Western Wood Pewee,True
+1274,Northern Raven,Snow Goose,False
+1275,Northern Raven,Ridgway's Rail,False
+1276,Swainson's Thrush,Swainson's Thrush,True
+1277,Dark-eyed Junco,Orange-crowned Warbler,False
+1278,Western Screech Owl,Western Meadowlark,False
+1279,Pacific Wren,Pacific Wren,True
+1280,Common Poorwill,Common Poorwill,True
+1281,Nutting's Flycatcher,Slate-colored Fox Sparrow,False
+1282,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+1283,Yellow-breasted Chat,Red-winged Blackbird,False
+1284,Red-winged Blackbird,Red-winged Blackbird,True
+1285,White-headed Woodpecker,White-headed Woodpecker,True
+1286,Yellow-breasted Chat,Yellow-breasted Chat,True
+1287,American Dusky Flycatcher,American Dusky Flycatcher,True
+1288,Lark Sparrow,Lark Sparrow,True
+1289,Brewer's Sparrow,Wrentit,False
+1290,Northern Raven,Northern Raven,True
+1291,Rock Wren,Canyon Wren,False
+1292,Western Wood Pewee,Western Wood Pewee,True
+1293,California Thrasher,Elegant Tern,False
+1294,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+1295,Black Phoebe,American Dusky Flycatcher,False
+1296,California Quail,Acorn Woodpecker,False
+1297,Great Horned Owl,Great Horned Owl,True
+1298,Flammulated Owl,Flammulated Owl,True
+1299,Lesser Goldfinch,Lesser Goldfinch,True
+1300,California Thrasher,Phainopepla,False
+1301,Chestnut-backed Chickadee,Oak Titmouse,False
+1302,Bewick's Wren,Pacific Wren,False
+1303,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1304,Hutton's Vireo,American Robin,False
+1305,Cassin's Finch,Cassin's Vireo,False
+1306,Grey Vireo,Grey Vireo,True
+1307,American Dusky Flycatcher,Common Yellowthroat,False
+1308,American Crow,American Crow,True
+1309,Pygmy Nuthatch,Hutton's Vireo,False
+1310,Abert's Towhee,Abert's Towhee,True
+1311,Lincoln's Sparrow,Bell's Sparrow,False
+1312,Cassin's Vireo,Lark Sparrow,False
+1313,House Finch,Cassin's Finch,False
+1314,Canyon Wren,Canyon Wren,True
+1315,Nuttall's Woodpecker,Spotted Towhee,False
+1316,Hutton's Vireo,Hutton's Vireo,True
+1317,Oak Titmouse,Pacific Wren,False
+1318,California Towhee,California Towhee,True
+1319,Lark Sparrow,American Grey Flycatcher,False
+1320,Hermit Warbler,Hermit Warbler,True
+1321,Lazuli Bunting,Lazuli Bunting,True
+1322,Bell's Vireo,Bell's Vireo,True
+1323,Pacific Wren,Pacific Wren,True
+1324,Black Phoebe,Black Phoebe,True
+1325,White-crowned Sparrow,White-crowned Sparrow,True
+1326,Orange-crowned Warbler,Orange-crowned Warbler,True
+1327,Northern Flicker,Northern Flicker,True
+1328,Northern Mockingbird,Yellow-breasted Chat,False
+1329,Pacific-slope Flycatcher,Pacific-slope Flycatcher,True
+1330,Lazuli Bunting,Lazuli Bunting,True
+1331,Juniper Titmouse,Northern Mockingbird,False
+1332,Pacific Wren,Chestnut-backed Chickadee,False
+1333,Lesser Goldfinch,Lesser Goldfinch,True
+1334,Cassin's Vireo,Northern Flicker,False
+1335,Black-tailed Gnatcatcher,Black-tailed Gnatcatcher,True
+1336,Cassin's Finch,Cassin's Finch,True
+1337,Lark Sparrow,Lark Sparrow,True
+1338,Phainopepla,Phainopepla,True
+1339,Northern Mockingbird,Yellow-breasted Chat,False
+1340,Long-eared Owl,Long-eared Owl,True
+1341,Lazuli Bunting,Lazuli Bunting,True
+1342,Common Yellowthroat,Ridgway's Rail,False
+1343,California Gnatcatcher,California Gnatcatcher,True
+1344,House Wren,White-headed Woodpecker,False
+1345,American Dusky Flycatcher,American Dusky Flycatcher,True
+1346,Lesser Goldfinch,Lincoln's Sparrow,False
+1347,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1348,Snow Goose,Snow Goose,True
+1349,House Finch,Oak Titmouse,False
+1350,Cassin's Finch,Cassin's Finch,True
+1351,Phainopepla,Clark's Nutcracker,False
+1352,Phainopepla,Phainopepla,True
+1353,Long-eared Owl,Long-eared Owl,True
+1354,Great Horned Owl,Black Phoebe,False
+1355,Grey Vireo,Grey Vireo,True
+1356,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+1357,Forster's Tern,Forster's Tern,True
+1358,Rock Wren,Rock Wren,True
+1359,Flammulated Owl,Flammulated Owl,True
+1360,Cassin's Vireo,Cassin's Vireo,True
+1361,White-breasted Nuthatch,Clark's Nutcracker,False
+1362,Hermit Warbler,Hermit Warbler,True
+1363,Canyon Wren,Canyon Wren,True
+1364,Yellow-breasted Chat,White-headed Woodpecker,False
+1365,Ridgway's Rail,Green-tailed Towhee,False
+1366,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1367,Yellow-breasted Chat,Yellow-breasted Chat,True
+1368,Song Sparrow,Pacific-slope Flycatcher,False
+1369,American Crow,Yellow-breasted Chat,False
+1370,Pacific Wren,Pacific Wren,True
+1371,Juniper Titmouse,Dark-eyed Junco,False
+1372,Northern Mockingbird,Northern Mockingbird,True
+1373,Western Screech Owl,Western Screech Owl,True
+1374,Black Phoebe,Verdin,False
+1375,California Quail,California Quail,True
+1376,Swainson's Thrush,Swainson's Thrush,True
+1377,Lazuli Bunting,Lazuli Bunting,True
+1378,Yellow-breasted Chat,Yellow-breasted Chat,True
+1379,Northern Mockingbird,Northern Mockingbird,True
+1380,Black-tailed Gnatcatcher,Black-tailed Gnatcatcher,True
+1381,Red-winged Blackbird,Red-winged Blackbird,True
+1382,Black Phoebe,Black Phoebe,True
+1383,Black Phoebe,Black Phoebe,True
+1384,Lincoln's Sparrow,Lincoln's Sparrow,True
+1385,Swainson's Thrush,Swainson's Thrush,True
+1386,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1387,Northern Mockingbird,Northern Mockingbird,True
+1388,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+1389,Thick-billed Fox Sparrow,Thick-billed Fox Sparrow,True
+1390,Common Yellowthroat,Rufous-crowned Sparrow,False
+1391,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+1392,Clark's Nutcracker,Clark's Nutcracker,True
+1393,Western Meadowlark,Western Meadowlark,True
+1394,California Thrasher,California Thrasher,True
+1395,Grey Vireo,Grey Vireo,True
+1396,Rock Wren,Rock Wren,True
+1397,Pacific Wren,Pacific Wren,True
+1398,Western Screech Owl,Northern Pygmy Owl,False
+1399,Red-winged Blackbird,Red-winged Blackbird,True
+1400,House Finch,House Finch,True
+1401,Pacific Wren,Bewick's Wren,False
+1402,Ash-throated Flycatcher,Orange-crowned Warbler,False
+1403,Canyon Wren,Canyon Wren,True
+1404,Brewer's Sparrow,Brewer's Sparrow,True
+1405,Common Poorwill,Common Poorwill,True
+1406,Warbling Vireo,Slate-colored Fox Sparrow,False
+1407,Flammulated Owl,Orange-crowned Warbler,False
+1408,Warbling Vireo,Marsh Wren,False
+1409,Flammulated Owl,Orange-crowned Warbler,False
+1410,Cassin's Finch,Lark Sparrow,False
+1411,Black-chinned Sparrow,Black-chinned Sparrow,True
+1412,Phainopepla,Phainopepla,True
+1413,American Crow,American Crow,True
+1414,Long-eared Owl,Long-eared Owl,True
+1415,Verdin,California Towhee,False
+1416,Anna's Hummingbird,American Bushtit,False
+1417,Juniper Titmouse,Juniper Titmouse,True
+1418,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+1419,Hermit Warbler,Hermit Warbler,True
+1420,White-headed Woodpecker,Juniper Titmouse,False
+1421,Grey Vireo,Grey Vireo,True
+1422,Pacific Wren,Pacific Wren,True
+1423,White-breasted Nuthatch,White-breasted Nuthatch,True
+1424,MacGillivray's Warbler,MacGillivray's Warbler,True
+1425,Juniper Titmouse,Juniper Titmouse,True
+1426,Western Meadowlark,Western Meadowlark,True
+1427,Black Phoebe,Black Phoebe,True
+1428,Great Horned Owl,American Crow,False
+1429,MacGillivray's Warbler,Dark-eyed Junco,False
+1430,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+1431,Wilson's Warbler,California Towhee,False
+1432,Green-tailed Towhee,Green-tailed Towhee,True
+1433,American Robin,Brewer's Sparrow,False
+1434,Mountain Quail,Mountain Quail,True
+1435,Black-headed Grosbeak,Black-headed Grosbeak,True
+1436,Black-headed Grosbeak,Black-headed Grosbeak,True
+1437,American Robin,American Robin,True
+1438,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1439,Yellow-breasted Chat,Yellow-breasted Chat,True
+1440,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+1441,Mountain Quail,Mountain Quail,True
+1442,Marsh Wren,Marsh Wren,True
+1443,Lesser Goldfinch,Lesser Goldfinch,True
+1444,American Dusky Flycatcher,American Dusky Flycatcher,True
+1445,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+1446,Lincoln's Sparrow,Chestnut-backed Chickadee,False
+1447,American Grey Flycatcher,Hutton's Vireo,False
+1448,Chestnut-backed Chickadee,Pacific Wren,False
+1449,Black Phoebe,Black Phoebe,True
+1450,American Crow,American Crow,True
+1451,American Grey Flycatcher,American Grey Flycatcher,True
+1452,Northern Mockingbird,Rufous-crowned Sparrow,False
+1453,Black Phoebe,Black Phoebe,True
+1454,Anna's Hummingbird,Anna's Hummingbird,True
+1455,Common Yellowthroat,Common Yellowthroat,True
+1456,Long-eared Owl,Lark Sparrow,False
+1457,California Quail,California Quail,True
+1458,Lazuli Bunting,Lazuli Bunting,True
+1459,Common Yellowthroat,Common Yellowthroat,True
+1460,California Thrasher,Cassin's Finch,False
+1461,Lazuli Bunting,Lazuli Bunting,True
+1462,American Grey Flycatcher,American Grey Flycatcher,True
+1463,Rock Wren,Cassin's Finch,False
+1464,Lark Sparrow,Common Yellowthroat,False
+1465,Warbling Vireo,Warbling Vireo,True
+1466,Wilson's Warbler,Wilson's Warbler,True
+1467,Grey Vireo,Forster's Tern,False
+1468,Lark Sparrow,Lark Sparrow,True
+1469,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+1470,Ash-throated Flycatcher,Lark Sparrow,False
+1471,Northern Saw-whet Owl,Northern Saw-whet Owl,True
+1472,American Robin,American Robin,True
+1473,Snow Goose,Snow Goose,True
+1474,Mountain Quail,Mountain Quail,True
+1475,Orange-crowned Warbler,American Bushtit,False
+1476,Northern Raven,Mountain Quail,False
+1477,Hermit Warbler,Bell's Sparrow,False
+1478,Hermit Thrush,Hermit Thrush,True
+1479,American Robin,American Robin,True
+1480,Ridgway's Rail,Rufous-crowned Sparrow,False
+1481,Cassin's Vireo,Cassin's Vireo,True
+1482,American Robin,Nutting's Flycatcher,False
+1483,Cassin's Vireo,White-headed Woodpecker,False
+1484,House Finch,Oak Titmouse,False
+1485,White-crowned Sparrow,White-crowned Sparrow,True
+1486,Yellow-breasted Chat,Yellow-breasted Chat,True
+1487,Juniper Titmouse,Juniper Titmouse,True
+1488,Dark-eyed Junco,Dark-eyed Junco,True
+1489,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+1490,Swainson's Thrush,Swainson's Thrush,True
+1491,Yellow-breasted Chat,Yellow-breasted Chat,True
+1492,Forster's Tern,Forster's Tern,True
+1493,Chestnut-backed Chickadee,Rufous-crowned Sparrow,False
+1494,Wilson's Warbler,Wilson's Warbler,True
+1495,White-crowned Sparrow,Green-tailed Towhee,False
+1496,Lincoln's Sparrow,Lincoln's Sparrow,True
+1497,Brewer's Sparrow,Brewer's Sparrow,True
+1498,Red-winged Blackbird,Northern Raven,False
+1499,California Thrasher,Yellow-breasted Chat,False
+1500,Yellow-breasted Chat,Yellow-breasted Chat,True
+1501,Northern Flicker,Northern Flicker,True
+1502,American Dusky Flycatcher,American Dusky Flycatcher,True
+1503,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+1504,American Dusky Flycatcher,American Dusky Flycatcher,True
+1505,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+1506,Blue-grey Gnatcatcher,Oak Titmouse,False
+1507,Western Wood Pewee,Lark Sparrow,False
+1508,Northern Mockingbird,Northern Mockingbird,True
+1509,Lesser Goldfinch,Lesser Goldfinch,True
+1510,American Robin,American Robin,True
+1511,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1512,Hutton's Vireo,Hutton's Vireo,True
+1513,Cassin's Vireo,Cassin's Vireo,True
+1514,House Finch,House Finch,True
+1515,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+1516,Lazuli Bunting,Thick-billed Fox Sparrow,False
+1517,Flammulated Owl,Flammulated Owl,True
+1518,Cassin's Vireo,Cassin's Vireo,True
+1519,Western Wood Pewee,Hermit Thrush,False
+1520,California Thrasher,California Thrasher,True
+1521,Phainopepla,Phainopepla,True
+1522,Flammulated Owl,Flammulated Owl,True
+1523,Rufous-crowned Sparrow,Green-tailed Towhee,False
+1524,American Bushtit,Pacific-slope Flycatcher,False
+1525,Spotted Owl,Western Meadowlark,False
+1526,Western Screech Owl,Western Screech Owl,True
+1527,California Towhee,White-crowned Sparrow,False
+1528,Lazuli Bunting,Bewick's Wren,False
+1529,Cassin's Vireo,Cassin's Vireo,True
+1530,Western Wood Pewee,Western Wood Pewee,True
+1531,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1532,Canyon Wren,Canyon Wren,True
+1533,California Gnatcatcher,Pacific-slope Flycatcher,False
+1534,Black-headed Grosbeak,Black-headed Grosbeak,True
+1535,Warbling Vireo,Warbling Vireo,True
+1536,Canyon Wren,Wilson's Warbler,False
+1537,Western Wood Pewee,Western Wood Pewee,True
+1538,Oak Titmouse,Bewick's Wren,False
+1539,Mountain Quail,Mountain Quail,True
+1540,Lazuli Bunting,Lazuli Bunting,True
+1541,Northern Mockingbird,Northern Mockingbird,True
+1542,Black Phoebe,Black Phoebe,True
+1543,Hermit Warbler,Hermit Warbler,True
+1544,American Grey Flycatcher,American Grey Flycatcher,True
+1545,Hermit Thrush,Western Wood Pewee,False
+1546,American Robin,American Robin,True
+1547,California Quail,Northern Flicker,False
+1548,American Dusky Flycatcher,American Dusky Flycatcher,True
+1549,Red-winged Blackbird,Red-winged Blackbird,True
+1550,Juniper Titmouse,Brewer's Sparrow,False
+1551,Black-headed Grosbeak,Black-headed Grosbeak,True
+1552,Dark-eyed Junco,MacGillivray's Warbler,False
+1553,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1554,American Robin,American Robin,True
+1555,Northern Mockingbird,Yellow-breasted Chat,False
+1556,Hutton's Vireo,Hutton's Vireo,True
+1557,Lark Sparrow,Lark Sparrow,True
+1558,Phainopepla,Juniper Titmouse,False
+1559,Ash-throated Flycatcher,Lark Sparrow,False
+1560,Flammulated Owl,Flammulated Owl,True
+1561,Wilson's Warbler,American Robin,False
+1562,Cassin's Vireo,Black-headed Grosbeak,False
+1563,Northern Mockingbird,Wrentit,False
+1564,Black-headed Grosbeak,Black-headed Grosbeak,True
+1565,American Grey Flycatcher,American Grey Flycatcher,True
+1566,American Dusky Flycatcher,American Dusky Flycatcher,True
+1567,Warbling Vireo,Warbling Vireo,True
+1568,White-crowned Sparrow,White-crowned Sparrow,True
+1569,Yellow-billed Magpie,Yellow-billed Magpie,True
+1570,Orange-crowned Warbler,Green-tailed Towhee,False
+1571,Black-chinned Sparrow,Black-chinned Sparrow,True
+1572,Blue-grey Gnatcatcher,Slate-colored Fox Sparrow,False
+1573,California Thrasher,Western Meadowlark,False
+1574,Brewer's Sparrow,Brewer's Sparrow,True
+1575,Verdin,Lesser Goldfinch,False
+1576,Song Sparrow,Song Sparrow,True
+1577,Black-chinned Sparrow,Black-chinned Sparrow,True
+1578,Flammulated Owl,Flammulated Owl,True
+1579,American Robin,American Robin,True
+1580,Northern Pygmy Owl,Northern Pygmy Owl,True
+1581,Mountain Quail,Northern Raven,False
+1582,Common Poorwill,Common Poorwill,True
+1583,Brewer's Sparrow,Brewer's Sparrow,True
+1584,Ridgway's Rail,Ridgway's Rail,True
+1585,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+1586,Forster's Tern,Forster's Tern,True
+1587,Black-chinned Sparrow,Black-chinned Sparrow,True
+1588,Juniper Titmouse,Juniper Titmouse,True
+1589,American Grey Flycatcher,Steller's Jay,False
+1590,White-crowned Sparrow,White-crowned Sparrow,True
+1591,American Crow,American Crow,True
+1592,Western Meadowlark,Western Meadowlark,True
+1593,Cassin's Vireo,Cassin's Vireo,True
+1594,California Gnatcatcher,California Gnatcatcher,True
+1595,Yellow-breasted Chat,Song Sparrow,False
+1596,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1597,American Robin,Wrentit,False
+1598,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+1599,Yellow-billed Magpie,Juniper Titmouse,False
+1600,Grey Vireo,Grey Vireo,True
+1601,Common Yellowthroat,Clark's Nutcracker,False
+1602,Pacific Wren,Pacific Wren,True
+1603,Great Horned Owl,Bell's Vireo,False
+1604,Grey Vireo,Grey Vireo,True
+1605,Acorn Woodpecker,Red-winged Blackbird,False
+1606,Northern Mockingbird,Yellow-breasted Chat,False
+1607,American Robin,American Robin,True
+1608,Grey Vireo,California Thrasher,False
+1609,Black-headed Grosbeak,Warbling Vireo,False
+1610,Long-eared Owl,Long-eared Owl,True
+1611,Northern Saw-whet Owl,Northern Saw-whet Owl,True
+1612,Abert's Towhee,Abert's Towhee,True
+1613,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1614,American Crow,American Crow,True
+1615,American Dusky Flycatcher,American Dusky Flycatcher,True
+1616,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+1617,Great Horned Owl,Great Horned Owl,True
+1618,Bell's Vireo,Bell's Vireo,True
+1619,Abert's Towhee,Abert's Towhee,True
+1620,Western Wood Pewee,Western Wood Pewee,True
+1621,Hermit Thrush,Swainson's Thrush,False
+1622,Lincoln's Sparrow,Lincoln's Sparrow,True
+1623,American Bushtit,Brewer's Sparrow,False
+1624,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+1625,Lincoln's Sparrow,Lincoln's Sparrow,True
+1626,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+1627,Northern Flicker,Dark-eyed Junco,False
+1628,Wrentit,Wrentit,True
+1629,Juniper Titmouse,Lark Sparrow,False
+1630,Northern Mockingbird,Rock Wren,False
+1631,California Thrasher,Western Meadowlark,False
+1632,Acorn Woodpecker,Pygmy Nuthatch,False
+1633,American Dusky Flycatcher,American Dusky Flycatcher,True
+1634,Mountain Quail,Mountain Quail,True
+1635,Lesser Goldfinch,Lesser Goldfinch,True
+1636,Snow Goose,Northern Raven,False
+1637,Brewer's Sparrow,Juniper Titmouse,False
+1638,Ash-throated Flycatcher,White-breasted Nuthatch,False
+1639,Grey Vireo,Grey Vireo,True
+1640,Black-headed Grosbeak,Western Meadowlark,False
+1641,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+1642,Bell's Vireo,Bell's Vireo,True
+1643,Yellow-breasted Chat,Yellow-breasted Chat,True
+1644,Rock Wren,Rock Wren,True
+1645,Northern Mockingbird,Northern Mockingbird,True
+1646,Grey Vireo,California Thrasher,False
+1647,White-headed Woodpecker,White-headed Woodpecker,True
+1648,Blue-grey Gnatcatcher,MacGillivray's Warbler,False
+1649,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+1650,House Finch,House Finch,True
+1651,Swainson's Thrush,Swainson's Thrush,True
+1652,Wilson's Warbler,Wilson's Warbler,True
+1653,Northern Flicker,Cassin's Finch,False
+1654,Swainson's Thrush,Swainson's Thrush,True
+1655,Black-headed Grosbeak,Black-headed Grosbeak,True
+1656,Juniper Titmouse,California Scrub Jay,False
+1657,Great Horned Owl,Great Horned Owl,True
+1658,Western Wood Pewee,Western Wood Pewee,True
+1659,Common Yellowthroat,Common Yellowthroat,True
+1660,American Robin,American Robin,True
+1661,House Finch,House Finch,True
+1662,American Robin,American Robin,True
+1663,White-headed Woodpecker,Hutton's Vireo,False
+1664,Phainopepla,Mountain Quail,False
+1665,Lark Sparrow,Lark Sparrow,True
+1666,Lincoln's Sparrow,MacGillivray's Warbler,False
+1667,Warbling Vireo,Warbling Vireo,True
+1668,Brewer's Sparrow,American Robin,False
+1669,Rufous-crowned Sparrow,Ridgway's Rail,False
+1670,Hutton's Vireo,Northern Pygmy Owl,False
+1671,White-headed Woodpecker,Clark's Nutcracker,False
+1672,Pygmy Nuthatch,Pygmy Nuthatch,True
+1673,American Grey Flycatcher,Western Wood Pewee,False
+1674,Black-headed Grosbeak,Black-headed Grosbeak,True
+1675,Snow Goose,Snow Goose,True
+1676,Long-eared Owl,Long-eared Owl,True
+1677,Pygmy Nuthatch,Pygmy Nuthatch,True
+1678,Grey Vireo,Grey Vireo,True
+1679,Black-chinned Sparrow,Black-chinned Sparrow,True
+1680,Lincoln's Sparrow,Cassin's Vireo,False
+1681,Snow Goose,Snow Goose,True
+1682,Steller's Jay,Steller's Jay,True
+1683,Wilson's Warbler,Bell's Vireo,False
+1684,Juniper Titmouse,Juniper Titmouse,True
+1685,Juniper Titmouse,Juniper Titmouse,True
+1686,Mountain Quail,Mountain Quail,True
+1687,Wrentit,Wrentit,True
+1688,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+1689,Lincoln's Sparrow,MacGillivray's Warbler,False
+1690,House Finch,House Finch,True
+1691,Northern Mockingbird,Northern Mockingbird,True
+1692,American Grey Flycatcher,American Grey Flycatcher,True
+1693,American Robin,American Robin,True
+1694,Juniper Titmouse,Juniper Titmouse,True
+1695,Nutting's Flycatcher,Nutting's Flycatcher,True
+1696,Warbling Vireo,Cassin's Finch,False
+1697,Red-winged Blackbird,Hermit Thrush,False
+1698,Cassin's Vireo,Common Yellowthroat,False
+1699,Common Poorwill,Common Poorwill,True
+1700,Lincoln's Sparrow,Lincoln's Sparrow,True
+1701,Hermit Warbler,Hermit Warbler,True
+1702,California Thrasher,California Thrasher,True
+1703,Lazuli Bunting,Marsh Wren,False
+1704,Black-chinned Sparrow,Black-chinned Sparrow,True
+1705,Yellow-breasted Chat,Yellow-breasted Chat,True
+1706,California Gnatcatcher,California Quail,False
+1707,Pacific Wren,Pacific Wren,True
+1708,Yellow-billed Magpie,Yellow-billed Magpie,True
+1709,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1710,Green-tailed Towhee,Lincoln's Sparrow,False
+1711,Thick-billed Fox Sparrow,Thick-billed Fox Sparrow,True
+1712,Rock Wren,Rock Wren,True
+1713,Great Horned Owl,Great Horned Owl,True
+1714,Western Meadowlark,Western Meadowlark,True
+1715,California Scrub Jay,California Scrub Jay,True
+1716,Brewer's Sparrow,Brewer's Sparrow,True
+1717,Cassin's Vireo,Cassin's Vireo,True
+1718,American Grey Flycatcher,Cassin's Finch,False
+1719,Black-chinned Sparrow,Black-chinned Sparrow,True
+1720,Lincoln's Sparrow,Northern Flicker,False
+1721,Black-chinned Sparrow,Black-chinned Sparrow,True
+1722,Brewer's Sparrow,Lazuli Bunting,False
+1723,Black-chinned Sparrow,Black-chinned Sparrow,True
+1724,Western Screech Owl,Western Screech Owl,True
+1725,Swainson's Thrush,Swainson's Thrush,True
+1726,Hermit Warbler,Hermit Warbler,True
+1727,Black-headed Grosbeak,California Thrasher,False
+1728,Red-winged Blackbird,Red-winged Blackbird,True
+1729,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+1730,Orange-crowned Warbler,Orange-crowned Warbler,True
+1731,Black-tailed Gnatcatcher,California Gnatcatcher,False
+1732,House Finch,Swainson's Thrush,False
+1733,Long-eared Owl,Long-eared Owl,True
+1734,American Dusky Flycatcher,Thick-billed Fox Sparrow,False
+1735,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1736,Spotted Owl,Spotted Owl,True
+1737,Swainson's Thrush,Swainson's Thrush,True
+1738,Slate-colored Fox Sparrow,Red Crossbill,False
+1739,Black-headed Grosbeak,Black-headed Grosbeak,True
+1740,Hermit Thrush,Hermit Thrush,True
+1741,House Finch,House Finch,True
+1742,Flammulated Owl,Great Horned Owl,False
+1743,Hermit Warbler,Hermit Warbler,True
+1744,California Gnatcatcher,Steller's Jay,False
+1745,Cassin's Vireo,House Finch,False
+1746,American Dusky Flycatcher,American Dusky Flycatcher,True
+1747,Bewick's Wren,Bewick's Wren,True
+1748,Clark's Nutcracker,Anna's Hummingbird,False
+1749,Oak Titmouse,Lark Sparrow,False
+1750,Steller's Jay,Nuttall's Woodpecker,False
+1751,Mountain Quail,Mountain Quail,True
+1752,American Robin,American Robin,True
+1753,Steller's Jay,Hermit Warbler,False
+1754,Brewer's Sparrow,Brewer's Sparrow,True
+1755,American Grey Flycatcher,American Grey Flycatcher,True
+1756,American Bushtit,American Bushtit,True
+1757,Red-winged Blackbird,Red-winged Blackbird,True
+1758,Hermit Warbler,Hermit Warbler,True
+1759,Phainopepla,Pacific-slope Flycatcher,False
+1760,House Finch,House Finch,True
+1761,Juniper Titmouse,Oak Titmouse,False
+1762,Wrentit,Wrentit,True
+1763,White-breasted Nuthatch,Northern Flicker,False
+1764,American Grey Flycatcher,Hermit Thrush,False
+1765,Black-chinned Sparrow,Bewick's Wren,False
+1766,Black-chinned Sparrow,Black-chinned Sparrow,True
+1767,Clark's Nutcracker,Clark's Nutcracker,True
+1768,Mountain Chickadee,Mountain Chickadee,True
+1769,White-headed Woodpecker,White-headed Woodpecker,True
+1770,Phainopepla,Phainopepla,True
+1771,Marsh Wren,Marsh Wren,True
+1772,Swainson's Thrush,Swainson's Thrush,True
+1773,Warbling Vireo,Warbling Vireo,True
+1774,Yellow-billed Magpie,Yellow-billed Magpie,True
+1775,Ridgway's Rail,Ridgway's Rail,True
+1776,Bell's Vireo,Bell's Vireo,True
+1777,Common Yellowthroat,House Wren,False
+1778,Cassin's Vireo,Mountain Chickadee,False
+1779,Common Yellowthroat,Common Yellowthroat,True
+1780,Long-eared Owl,Long-eared Owl,True
+1781,Pacific Wren,Blue-grey Gnatcatcher,False
+1782,American Dusky Flycatcher,American Dusky Flycatcher,True
+1783,Spotted Towhee,Mountain Chickadee,False
+1784,American Dusky Flycatcher,Slate-colored Fox Sparrow,False
+1785,Swainson's Thrush,Swainson's Thrush,True
+1786,White-breasted Nuthatch,Swainson's Thrush,False
+1787,Yellow-billed Magpie,Northern Flicker,False
+1788,Black-headed Grosbeak,Black-headed Grosbeak,True
+1789,Mountain Quail,Northern Pygmy Owl,False
+1790,Great Horned Owl,Great Horned Owl,True
+1791,Snow Goose,Snow Goose,True
+1792,Long-eared Owl,Long-eared Owl,True
+1793,California Towhee,California Towhee,True
+1794,Marsh Wren,Wilson's Warbler,False
+1795,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+1796,Lesser Goldfinch,Lesser Goldfinch,True
+1797,American Bushtit,Anna's Hummingbird,False
+1798,California Quail,Yellow-breasted Chat,False
+1799,Northern Raven,Northern Raven,True
+1800,Juniper Titmouse,Juniper Titmouse,True
+1801,Wilson's Warbler,Wilson's Warbler,True
+1802,California Gnatcatcher,California Gnatcatcher,True
+1803,Western Screech Owl,Western Screech Owl,True
+1804,American Dusky Flycatcher,American Dusky Flycatcher,True
+1805,Anna's Hummingbird,Anna's Hummingbird,True
+1806,Spotted Towhee,Rock Wren,False
+1807,Dark-eyed Junco,Anna's Hummingbird,False
+1808,House Finch,Northern Mockingbird,False
+1809,Canyon Wren,Canyon Wren,True
+1810,Nutting's Flycatcher,Nutting's Flycatcher,True
+1811,Yellow-breasted Chat,Yellow-breasted Chat,True
+1812,Northern Mockingbird,Northern Mockingbird,True
+1813,Nutting's Flycatcher,Lesser Goldfinch,False
+1814,Bell's Vireo,Bell's Vireo,True
+1815,California Thrasher,California Thrasher,True
+1816,American Grey Flycatcher,American Grey Flycatcher,True
+1817,Northern Flicker,Northern Flicker,True
+1818,Western Screech Owl,Common Poorwill,False
+1819,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+1820,Cassin's Vireo,Cassin's Vireo,True
+1821,Canyon Wren,Canyon Wren,True
+1822,Western Wood Pewee,Western Wood Pewee,True
+1823,Cassin's Finch,Cassin's Finch,True
+1824,Pacific Wren,Pacific Wren,True
+1825,Juniper Titmouse,Juniper Titmouse,True
+1826,Great Horned Owl,Great Horned Owl,True
+1827,Nutting's Flycatcher,Nutting's Flycatcher,True
+1828,Lesser Goldfinch,Black-chinned Sparrow,False
+1829,Brewer's Sparrow,Brewer's Sparrow,True
+1830,Cassin's Finch,Cassin's Finch,True
+1831,MacGillivray's Warbler,MacGillivray's Warbler,True
+1832,American Grey Flycatcher,American Grey Flycatcher,True
+1833,Hermit Thrush,Hermit Thrush,True
+1834,Rock Wren,Rock Wren,True
+1835,MacGillivray's Warbler,Lazuli Bunting,False
+1836,House Finch,House Finch,True
+1837,Canyon Wren,Canyon Wren,True
+1838,California Gnatcatcher,Canyon Wren,False
+1839,Western Meadowlark,Swainson's Thrush,False
+1840,Flammulated Owl,Flammulated Owl,True
+1841,Slate-colored Fox Sparrow,Bell's Sparrow,False
+1842,Swainson's Thrush,Lazuli Bunting,False
+1843,House Wren,House Wren,True
+1844,White-headed Woodpecker,White-headed Woodpecker,True
+1845,Green-tailed Towhee,Thick-billed Fox Sparrow,False
+1846,Yellow-breasted Chat,Yellow-breasted Chat,True
+1847,Black-chinned Sparrow,California Towhee,False
+1848,Dark-eyed Junco,Dark-eyed Junco,True
+1849,Lazuli Bunting,Lazuli Bunting,True
+1850,Lark Sparrow,Chestnut-backed Chickadee,False
+1851,Lincoln's Sparrow,Lincoln's Sparrow,True
+1852,Western Screech Owl,Western Screech Owl,True
+1853,Wilson's Warbler,Wilson's Warbler,True
+1854,Brewer's Sparrow,Brewer's Sparrow,True
+1855,Canyon Wren,Canyon Wren,True
+1856,Elegant Tern,Elegant Tern,True
+1857,American Grey Flycatcher,American Grey Flycatcher,True
+1858,American Dusky Flycatcher,American Dusky Flycatcher,True
+1859,Northern Mockingbird,Wilson's Warbler,False
+1860,Long-eared Owl,Long-eared Owl,True
+1861,Swainson's Thrush,Swainson's Thrush,True
+1862,Hermit Warbler,Hermit Warbler,True
+1863,Red-winged Blackbird,Red-winged Blackbird,True
+1864,Canyon Wren,Pygmy Nuthatch,False
+1865,Black-chinned Sparrow,MacGillivray's Warbler,False
+1866,Rock Wren,Rock Wren,True
+1867,California Scrub Jay,Acorn Woodpecker,False
+1868,White-crowned Sparrow,White-crowned Sparrow,True
+1869,California Thrasher,Acorn Woodpecker,False
+1870,American Dusky Flycatcher,American Dusky Flycatcher,True
+1871,Great Horned Owl,Great Horned Owl,True
+1872,Great Horned Owl,Great Horned Owl,True
+1873,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1874,Lesser Goldfinch,Lesser Goldfinch,True
+1875,Common Yellowthroat,Common Yellowthroat,True
+1876,Swainson's Thrush,Lazuli Bunting,False
+1877,Pacific-slope Flycatcher,Lincoln's Sparrow,False
+1878,Nutting's Flycatcher,Nutting's Flycatcher,True
+1879,Lark Sparrow,Lark Sparrow,True
+1880,American Grey Flycatcher,American Grey Flycatcher,True
+1881,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1882,Black Phoebe,California Towhee,False
+1883,Black-chinned Sparrow,Black-chinned Sparrow,True
+1884,Spotted Owl,Northern Pygmy Owl,False
+1885,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1886,Yellow-breasted Chat,Yellow-breasted Chat,True
+1887,Hermit Warbler,Hermit Warbler,True
+1888,Hermit Thrush,Hermit Thrush,True
+1889,Brewer's Sparrow,Brewer's Sparrow,True
+1890,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+1891,Rock Wren,Rock Wren,True
+1892,American Dusky Flycatcher,American Dusky Flycatcher,True
+1893,Cassin's Finch,Cassin's Finch,True
+1894,American Crow,Mountain Quail,False
+1895,Black-headed Grosbeak,Lark Sparrow,False
+1896,Western Wood Pewee,Western Wood Pewee,True
+1897,Phainopepla,Phainopepla,True
+1898,Juniper Titmouse,Juniper Titmouse,True
+1899,Bewick's Wren,Marsh Wren,False
+1900,Lincoln's Sparrow,Lincoln's Sparrow,True
+1901,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+1902,Hutton's Vireo,Northern Raven,False
+1903,Dark-eyed Junco,Dark-eyed Junco,True
+1904,Slate-colored Fox Sparrow,Green-tailed Towhee,False
+1905,Long-eared Owl,Long-eared Owl,True
+1906,Yellow-breasted Chat,Northern Raven,False
+1907,Bell's Vireo,Green-tailed Towhee,False
+1908,American Crow,Red-winged Blackbird,False
+1909,Swainson's Thrush,Swainson's Thrush,True
+1910,Hermit Thrush,Hermit Thrush,True
+1911,American Grey Flycatcher,American Grey Flycatcher,True
+1912,Brewer's Sparrow,Western Meadowlark,False
+1913,Black-chinned Sparrow,Black-chinned Sparrow,True
+1914,Flammulated Owl,Flammulated Owl,True
+1915,Verdin,Blue-grey Gnatcatcher,False
+1916,Phainopepla,Phainopepla,True
+1917,American Robin,White-breasted Nuthatch,False
+1918,Cassin's Vireo,Cassin's Vireo,True
+1919,California Thrasher,California Thrasher,True
+1920,Hermit Warbler,Brewer's Sparrow,False
+1921,Phainopepla,Phainopepla,True
+1922,Flammulated Owl,Flammulated Owl,True
+1923,Black-headed Grosbeak,Black-headed Grosbeak,True
+1924,Northern Flicker,Wilson's Warbler,False
+1925,Cassin's Vireo,Grey Vireo,False
+1926,American Robin,American Robin,True
+1927,Red-winged Blackbird,Northern Mockingbird,False
+1928,Lark Sparrow,Western Meadowlark,False
+1929,Common Poorwill,Common Poorwill,True
+1930,California Towhee,California Towhee,True
+1931,Northern Mockingbird,Northern Mockingbird,True
+1932,Chestnut-backed Chickadee,American Bushtit,False
+1933,Common Poorwill,Common Poorwill,True
+1934,Great Horned Owl,Great Horned Owl,True
+1935,Phainopepla,Phainopepla,True
+1936,Lincoln's Sparrow,Lincoln's Sparrow,True
+1937,Cassin's Finch,Warbling Vireo,False
+1938,Black-headed Grosbeak,Black-headed Grosbeak,True
+1939,Elegant Tern,Elegant Tern,True
+1940,Dark-eyed Junco,Dark-eyed Junco,True
+1941,Yellow-breasted Chat,Yellow-breasted Chat,True
+1942,Flammulated Owl,Flammulated Owl,True
+1943,American Crow,Northern Mockingbird,False
+1944,Canyon Wren,Canyon Wren,True
+1945,American Grey Flycatcher,American Grey Flycatcher,True
+1946,American Robin,American Robin,True
+1947,Red Crossbill,Slate-colored Fox Sparrow,False
+1948,Thick-billed Fox Sparrow,Thick-billed Fox Sparrow,True
+1949,Spotted Owl,Spotted Owl,True
+1950,Cassin's Finch,Cassin's Finch,True
+1951,Rock Wren,Rock Wren,True
+1952,Grey Vireo,Grey Vireo,True
+1953,American Robin,Hermit Warbler,False
+1954,Flammulated Owl,Flammulated Owl,True
+1955,Northern Pygmy Owl,Northern Pygmy Owl,True
+1956,Nutting's Flycatcher,Mountain Chickadee,False
+1957,Long-eared Owl,Long-eared Owl,True
+1958,Slate-colored Fox Sparrow,Thick-billed Fox Sparrow,False
+1959,California Scrub Jay,California Scrub Jay,True
+1960,Warbling Vireo,Warbling Vireo,True
+1961,Warbling Vireo,Thick-billed Fox Sparrow,False
+1962,Grey Vireo,American Grey Flycatcher,False
+1963,Black-chinned Sparrow,Black-chinned Sparrow,True
+1964,White-headed Woodpecker,White-headed Woodpecker,True
+1965,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+1966,Cassin's Vireo,Cassin's Vireo,True
+1967,Western Meadowlark,Western Meadowlark,True
+1968,Hermit Warbler,Hermit Warbler,True
+1969,Grey Vireo,Grey Vireo,True
+1970,Black-chinned Sparrow,Black-chinned Sparrow,True
+1971,Common Yellowthroat,Nuttall's Woodpecker,False
+1972,Western Wood Pewee,Western Wood Pewee,True
+1973,Lark Sparrow,Lark Sparrow,True
+1974,Black Phoebe,Black Phoebe,True
+1975,California Quail,Northern Mockingbird,False
+1976,Mountain Quail,Long-eared Owl,False
+1977,Acorn Woodpecker,Acorn Woodpecker,True
+1978,Long-eared Owl,Long-eared Owl,True
+1979,Northern Saw-whet Owl,Black-tailed Gnatcatcher,False
+1980,Lark Sparrow,Lark Sparrow,True
+1981,Cassin's Vireo,Cassin's Vireo,True
+1982,California Thrasher,California Thrasher,True
+1983,Wilson's Warbler,Wilson's Warbler,True
+1984,Orange-crowned Warbler,Orange-crowned Warbler,True
+1985,Forster's Tern,Lark Sparrow,False
+1986,Flammulated Owl,Flammulated Owl,True
+1987,Ridgway's Rail,Pygmy Nuthatch,False
+1988,Long-eared Owl,Long-eared Owl,True
+1989,California Thrasher,Forster's Tern,False
+1990,Pygmy Nuthatch,Pygmy Nuthatch,True
+1991,Marsh Wren,Marsh Wren,True
+1992,Canyon Wren,Northern Pygmy Owl,False
+1993,Black Phoebe,Red-winged Blackbird,False
+1994,Western Meadowlark,Snow Goose,False
+1995,Northern Mockingbird,Northern Mockingbird,True
+1996,Black-chinned Sparrow,Black-chinned Sparrow,True
+1997,Brewer's Sparrow,Brewer's Sparrow,True
+1998,MacGillivray's Warbler,Pacific Wren,False
+1999,Black-tailed Gnatcatcher,Black-tailed Gnatcatcher,True
+2000,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+2001,Nutting's Flycatcher,Nutting's Flycatcher,True
+2002,Black-chinned Sparrow,Black-chinned Sparrow,True
+2003,California Thrasher,California Thrasher,True
+2004,Northern Flicker,California Scrub Jay,False
+2005,Flammulated Owl,Flammulated Owl,True
+2006,Rock Wren,Rock Wren,True
+2007,Juniper Titmouse,Juniper Titmouse,True
+2008,Hermit Thrush,Hermit Thrush,True
+2009,Grey Vireo,House Finch,False
+2010,Lincoln's Sparrow,MacGillivray's Warbler,False
+2011,Dark-eyed Junco,Black-tailed Gnatcatcher,False
+2012,California Thrasher,Yellow-billed Magpie,False
+2013,California Thrasher,Cassin's Vireo,False
+2014,White-headed Woodpecker,White-headed Woodpecker,True
+2015,Dark-eyed Junco,MacGillivray's Warbler,False
+2016,Pacific Wren,Pacific Wren,True
+2017,Lincoln's Sparrow,Lincoln's Sparrow,True
+2018,House Finch,Tricolored Blackbird,False
+2019,Canyon Wren,Canyon Wren,True
+2020,Black Phoebe,Black Phoebe,True
+2021,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+2022,Grey Vireo,Grey Vireo,True
+2023,Black Phoebe,Verdin,False
+2024,Pacific-slope Flycatcher,Pacific-slope Flycatcher,True
+2025,Lesser Goldfinch,Lesser Goldfinch,True
+2026,Nutting's Flycatcher,Nutting's Flycatcher,True
+2027,Elegant Tern,Elegant Tern,True
+2028,Black-headed Grosbeak,Black-headed Grosbeak,True
+2029,Dark-eyed Junco,MacGillivray's Warbler,False
+2030,California Thrasher,Northern Flicker,False
+2031,California Quail,California Quail,True
+2032,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+2033,House Finch,Ridgway's Rail,False
+2034,California Thrasher,Lincoln's Sparrow,False
+2035,Black-headed Grosbeak,Thick-billed Fox Sparrow,False
+2036,Hermit Warbler,Hermit Warbler,True
+2037,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+2038,Hermit Thrush,Hermit Thrush,True
+2039,Black-chinned Sparrow,Black-chinned Sparrow,True
+2040,Pacific Wren,Pacific Wren,True
+2041,Hermit Thrush,Thick-billed Fox Sparrow,False
+2042,Hermit Thrush,Hermit Thrush,True
+2043,California Quail,California Quail,True
+2044,Black-headed Grosbeak,Black-headed Grosbeak,True
+2045,American Crow,Common Poorwill,False
+2046,American Bushtit,American Bushtit,True
+2047,House Finch,House Finch,True
+2048,Black-headed Grosbeak,Black-headed Grosbeak,True
+2049,Canyon Wren,Canyon Wren,True
+2050,Lincoln's Sparrow,Green-tailed Towhee,False
+2051,Lazuli Bunting,Lazuli Bunting,True
+2052,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+2053,Black-chinned Sparrow,Black-chinned Sparrow,True
+2054,Oak Titmouse,Oak Titmouse,True
+2055,Juniper Titmouse,Northern Mockingbird,False
+2056,Pacific-slope Flycatcher,American Bushtit,False
+2057,Lark Sparrow,Lark Sparrow,True
+2058,Common Yellowthroat,Song Sparrow,False
+2059,White-breasted Nuthatch,White-breasted Nuthatch,True
+2060,Cassin's Vireo,Cassin's Vireo,True
+2061,Marsh Wren,Marsh Wren,True
+2062,American Robin,American Robin,True
+2063,Nuttall's Woodpecker,California Thrasher,False
+2064,Grey Vireo,Grey Vireo,True
+2065,Hermit Thrush,Hermit Thrush,True
+2066,Lincoln's Sparrow,Dark-eyed Junco,False
+2067,Lesser Goldfinch,Lesser Goldfinch,True
+2068,Long-eared Owl,Long-eared Owl,True
+2069,Spotted Owl,Spotted Owl,True
+2070,Great Horned Owl,Northern Flicker,False
+2071,Phainopepla,Phainopepla,True
+2072,White-breasted Nuthatch,Cassin's Finch,False
+2073,Ridgway's Rail,Ridgway's Rail,True
+2074,Red-winged Blackbird,Oak Titmouse,False
+2075,Juniper Titmouse,White-headed Woodpecker,False
+2076,Yellow-breasted Chat,Ridgway's Rail,False
+2077,Pygmy Nuthatch,Mountain Chickadee,False
+2078,Tricolored Blackbird,Tricolored Blackbird,True
+2079,Phainopepla,Northern Mockingbird,False
+2080,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+2081,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+2082,Black Phoebe,Black Phoebe,True
+2083,Yellow-breasted Chat,Spotted Towhee,False
+2084,White-crowned Sparrow,White-crowned Sparrow,True
+2085,California Thrasher,Swainson's Thrush,False
+2086,Brewer's Sparrow,Brewer's Sparrow,True
+2087,Marsh Wren,Marsh Wren,True
+2088,Forster's Tern,Forster's Tern,True
+2089,Snow Goose,Snow Goose,True
+2090,American Dusky Flycatcher,American Dusky Flycatcher,True
+2091,White-headed Woodpecker,White-headed Woodpecker,True
+2092,Northern Mockingbird,Northern Mockingbird,True
+2093,House Finch,House Finch,True
+2094,Hermit Warbler,Western Wood Pewee,False
+2095,Grey Vireo,House Finch,False
+2096,Cassin's Vireo,American Grey Flycatcher,False
+2097,Western Screech Owl,Western Screech Owl,True
+2098,Lazuli Bunting,Lazuli Bunting,True
+2099,House Finch,Marsh Wren,False
+2100,Hermit Warbler,Hermit Warbler,True
+2101,Cassin's Vireo,Cassin's Vireo,True
+2102,Cassin's Vireo,Red-winged Blackbird,False
+2103,Song Sparrow,House Wren,False
+2104,White-headed Woodpecker,White-headed Woodpecker,True
+2105,American Bushtit,Orange-crowned Warbler,False
+2106,Snow Goose,Snow Goose,True
+2107,Pygmy Nuthatch,Pygmy Nuthatch,True
+2108,Red Crossbill,Rufous-crowned Sparrow,False
+2109,White-headed Woodpecker,White-headed Woodpecker,True
+2110,Pacific Wren,Canyon Wren,False
+2111,Northern Flicker,Northern Flicker,True
+2112,Common Yellowthroat,Common Yellowthroat,True
+2113,Orange-crowned Warbler,Orange-crowned Warbler,True
+2114,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+2115,Long-eared Owl,Long-eared Owl,True
+2116,Long-eared Owl,American Crow,False
+2117,Lark Sparrow,Lark Sparrow,True
+2118,House Finch,House Finch,True
+2119,Lesser Goldfinch,Slate-colored Fox Sparrow,False
+2120,Mountain Quail,Mountain Quail,True
+2121,Ridgway's Rail,Song Sparrow,False
+2122,White-breasted Nuthatch,Hermit Warbler,False
+2123,Black-headed Grosbeak,Black-headed Grosbeak,True
+2124,Long-eared Owl,Long-eared Owl,True
+2125,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+2126,Mountain Quail,Mountain Quail,True
+2127,Brewer's Sparrow,Brewer's Sparrow,True
+2128,Northern Flicker,Marsh Wren,False
+2129,American Robin,American Robin,True
+2130,Snow Goose,Snow Goose,True
+2131,White-breasted Nuthatch,White-breasted Nuthatch,True
+2132,Yellow-billed Magpie,Yellow-billed Magpie,True
+2133,Juniper Titmouse,Juniper Titmouse,True
+2134,Juniper Titmouse,American Robin,False
+2135,Rock Wren,Rock Wren,True
+2136,Phainopepla,Cassin's Vireo,False
+2137,Hutton's Vireo,Hutton's Vireo,True
+2138,Ridgway's Rail,Ridgway's Rail,True
+2139,Great Horned Owl,Great Horned Owl,True
+2140,Northern Mockingbird,Northern Mockingbird,True
+2141,White-headed Woodpecker,White-headed Woodpecker,True
+2142,Great Horned Owl,Northern Saw-whet Owl,False
+2143,Long-eared Owl,Long-eared Owl,True
+2144,Yellow-billed Magpie,Yellow-billed Magpie,True
+2145,Verdin,Verdin,True
+2146,American Robin,American Robin,True
+2147,American Crow,American Crow,True
+2148,Long-eared Owl,Long-eared Owl,True
+2149,White-crowned Sparrow,White-crowned Sparrow,True
+2150,Ash-throated Flycatcher,Western Wood Pewee,False
+2151,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+2152,Grey Vireo,Grey Vireo,True
+2153,Red-winged Blackbird,Red-winged Blackbird,True
+2154,White-headed Woodpecker,White-headed Woodpecker,True
+2155,American Robin,American Robin,True
+2156,Hermit Thrush,Yellow-breasted Chat,False
+2157,Yellow-billed Magpie,Yellow-billed Magpie,True
+2158,Northern Mockingbird,Northern Mockingbird,True
+2159,Lincoln's Sparrow,Lincoln's Sparrow,True
+2160,Western Screech Owl,Northern Pygmy Owl,False
+2161,Common Yellowthroat,MacGillivray's Warbler,False
+2162,Lazuli Bunting,Lazuli Bunting,True
+2163,American Crow,American Crow,True
+2164,Western Wood Pewee,Thick-billed Fox Sparrow,False
+2165,Green-tailed Towhee,Rufous-crowned Sparrow,False
+2166,Common Poorwill,Common Poorwill,True
+2167,Hermit Warbler,Hermit Warbler,True
+2168,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+2169,American Robin,Juniper Titmouse,False
+2170,California Gnatcatcher,California Gnatcatcher,True
+2171,Brewer's Sparrow,Brewer's Sparrow,True
+2172,Cassin's Vireo,Cassin's Vireo,True
+2173,White-crowned Sparrow,White-crowned Sparrow,True
+2174,Orange-crowned Warbler,Orange-crowned Warbler,True
+2175,Hermit Warbler,Steller's Jay,False
+2176,Common Yellowthroat,Common Yellowthroat,True
+2177,Lazuli Bunting,Lazuli Bunting,True
+2178,Grey Vireo,Lark Sparrow,False
+2179,Lark Sparrow,Lark Sparrow,True
+2180,Verdin,Spotted Towhee,False
+2181,Abert's Towhee,Abert's Towhee,True
+2182,Hermit Warbler,Hermit Warbler,True
+2183,Nutting's Flycatcher,Nutting's Flycatcher,True
+2184,American Crow,American Crow,True
+2185,Great Horned Owl,Great Horned Owl,True
+2186,White-crowned Sparrow,White-crowned Sparrow,True
+2187,Northern Mockingbird,Yellow-breasted Chat,False
+2188,Verdin,Black-tailed Gnatcatcher,False
+2189,Ash-throated Flycatcher,Wrentit,False
+2190,Cassin's Vireo,Cassin's Vireo,True
+2191,Hermit Thrush,Hermit Thrush,True
+2192,Northern Mockingbird,Northern Mockingbird,True
+2193,Lark Sparrow,Lark Sparrow,True
+2194,White-headed Woodpecker,White-headed Woodpecker,True
+2195,Cassin's Vireo,Warbling Vireo,False
+2196,Lincoln's Sparrow,Lincoln's Sparrow,True
+2197,Hermit Warbler,Hermit Warbler,True
+2198,White-crowned Sparrow,White-crowned Sparrow,True
+2199,Lazuli Bunting,Lazuli Bunting,True
+2200,House Finch,House Finch,True
+2201,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+2202,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+2203,Juniper Titmouse,Juniper Titmouse,True
+2204,Lesser Goldfinch,Common Yellowthroat,False
+2205,Great Horned Owl,Great Horned Owl,True
+2206,Grey Vireo,California Thrasher,False
+2207,Lincoln's Sparrow,Lincoln's Sparrow,True
+2208,Cassin's Vireo,Cassin's Vireo,True
+2209,Pygmy Nuthatch,Pygmy Nuthatch,True
+2210,Western Wood Pewee,Western Wood Pewee,True
+2211,Clark's Nutcracker,Clark's Nutcracker,True
+2212,Pacific Wren,Thick-billed Fox Sparrow,False
+2213,Western Meadowlark,California Quail,False
+2214,Verdin,Verdin,True
+2215,American Crow,Northern Raven,False
+2216,California Gnatcatcher,California Gnatcatcher,True
+2217,Pacific-slope Flycatcher,California Quail,False
+2218,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+2219,Ash-throated Flycatcher,Hermit Thrush,False
+2220,MacGillivray's Warbler,MacGillivray's Warbler,True
+2221,Mountain Quail,Mountain Quail,True
+2222,Lincoln's Sparrow,Pacific-slope Flycatcher,False
+2223,Rock Wren,Rock Wren,True
+2224,American Robin,American Robin,True
+2225,Marsh Wren,Marsh Wren,True
+2226,Cassin's Finch,Cassin's Finch,True
+2227,Hermit Thrush,Hermit Thrush,True
+2228,Great Horned Owl,Great Horned Owl,True
+2229,American Grey Flycatcher,American Grey Flycatcher,True
+2230,Cassin's Finch,Rock Wren,False
+2231,Black-headed Grosbeak,Black-headed Grosbeak,True
+2232,Black-headed Grosbeak,Black-headed Grosbeak,True
+2233,Ash-throated Flycatcher,Lark Sparrow,False
+2234,Orange-crowned Warbler,Orange-crowned Warbler,True
+2235,Yellow-breasted Chat,Yellow-breasted Chat,True
+2236,Yellow-breasted Chat,Black-headed Grosbeak,False
+2237,Mountain Quail,Mountain Quail,True
+2238,Northern Pygmy Owl,Northern Pygmy Owl,True
+2239,MacGillivray's Warbler,Lazuli Bunting,False
+2240,American Robin,Pygmy Nuthatch,False
+2241,Hutton's Vireo,Lincoln's Sparrow,False
+2242,American Robin,American Robin,True
+2243,Great Horned Owl,Great Horned Owl,True
+2244,Yellow-breasted Chat,Marsh Wren,False
+2245,House Finch,Cassin's Finch,False
+2246,Hermit Warbler,Hermit Warbler,True
+2247,Western Wood Pewee,Western Wood Pewee,True
+2248,Northern Mockingbird,Northern Mockingbird,True
+2249,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+2250,Hutton's Vireo,Song Sparrow,False
+2251,Flammulated Owl,Flammulated Owl,True
+2252,American Crow,American Crow,True
+2253,Western Screech Owl,Western Screech Owl,True
+2254,Phainopepla,Phainopepla,True
+2255,Flammulated Owl,Flammulated Owl,True
+2256,American Grey Flycatcher,American Grey Flycatcher,True
+2257,Anna's Hummingbird,Marsh Wren,False
+2258,White-crowned Sparrow,Green-tailed Towhee,False
+2259,Hermit Warbler,Hermit Warbler,True
+2260,Black-chinned Sparrow,Black-chinned Sparrow,True
+2261,Northern Pygmy Owl,Northern Pygmy Owl,True
+2262,Great Horned Owl,Great Horned Owl,True
+2263,Western Meadowlark,Red-winged Blackbird,False
+2264,White-crowned Sparrow,White-crowned Sparrow,True
+2265,Dark-eyed Junco,Dark-eyed Junco,True
+2266,Phainopepla,Phainopepla,True
+2267,Mountain Quail,Mountain Quail,True
+2268,Common Yellowthroat,Common Yellowthroat,True
+2269,Lark Sparrow,Lark Sparrow,True
+2270,Warbling Vireo,Warbling Vireo,True
+2271,Lark Sparrow,Brewer's Sparrow,False
+2272,Yellow-breasted Chat,Marsh Wren,False
+2273,Lazuli Bunting,Dark-eyed Junco,False
+2274,Black-headed Grosbeak,Lazuli Bunting,False
+2275,Western Meadowlark,Western Meadowlark,True
+2276,Spotted Owl,Spotted Owl,True
+2277,Chestnut-backed Chickadee,Oak Titmouse,False
+2278,Hutton's Vireo,Hutton's Vireo,True
+2279,Wilson's Warbler,Wilson's Warbler,True
+2280,Long-eared Owl,Long-eared Owl,True
+2281,Bewick's Wren,House Wren,False
+2282,Lincoln's Sparrow,Bewick's Wren,False
+2283,Northern Mockingbird,Northern Mockingbird,True
+2284,Northern Mockingbird,Northern Mockingbird,True
+2285,California Quail,California Quail,True
+2286,Red-winged Blackbird,Ridgway's Rail,False
+2287,Phainopepla,Phainopepla,True
+2288,Spotted Owl,Spotted Owl,True
+2289,Northern Mockingbird,Canyon Wren,False
+2290,Western Meadowlark,Blue-grey Gnatcatcher,False
+2291,Red-winged Blackbird,Red-winged Blackbird,True
+2292,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+2293,Warbling Vireo,Warbling Vireo,True
+2294,Pygmy Nuthatch,Pygmy Nuthatch,True
+2295,American Crow,Verdin,False
+2296,Grey Vireo,Grey Vireo,True
+2297,Northern Mockingbird,Wrentit,False
+2298,Lincoln's Sparrow,House Wren,False
+2299,Hermit Thrush,Hermit Thrush,True
+2300,Northern Mockingbird,Cassin's Finch,False
+2301,White-crowned Sparrow,Lazuli Bunting,False
+2302,Long-eared Owl,Long-eared Owl,True
+2303,Common Poorwill,Common Poorwill,True
+2304,American Crow,Spotted Owl,False
+2305,Lesser Goldfinch,Lesser Goldfinch,True
+2306,House Finch,Cassin's Finch,False
+2307,American Grey Flycatcher,American Grey Flycatcher,True
+2308,Nutting's Flycatcher,Juniper Titmouse,False
+2309,California Scrub Jay,House Wren,False
+2310,California Thrasher,Snow Goose,False
+2311,Forster's Tern,Forster's Tern,True
+2312,Lazuli Bunting,Lazuli Bunting,True
+2313,Common Poorwill,Common Poorwill,True
+2314,Long-eared Owl,Long-eared Owl,True
+2315,Orange-crowned Warbler,Orange-crowned Warbler,True
+2316,Pacific-slope Flycatcher,Pacific-slope Flycatcher,True
+2317,Black-chinned Sparrow,Lesser Goldfinch,False
+2318,American Robin,Wrentit,False
+2319,Brewer's Sparrow,Brewer's Sparrow,True
+2320,White-headed Woodpecker,American Robin,False
+2321,Nuttall's Woodpecker,Nuttall's Woodpecker,True
+2322,California Thrasher,Phainopepla,False
+2323,Black-chinned Sparrow,Black-chinned Sparrow,True
+2324,Bell's Vireo,Bell's Vireo,True
+2325,California Quail,Red-winged Blackbird,False
+2326,Ridgway's Rail,Forster's Tern,False
+2327,Forster's Tern,Ridgway's Rail,False
+2328,Northern Flicker,Hermit Thrush,False
+2329,Nutting's Flycatcher,Bewick's Wren,False
+2330,Swainson's Thrush,Swainson's Thrush,True
+2331,Anna's Hummingbird,Anna's Hummingbird,True
+2332,Western Screech Owl,Northern Mockingbird,False
+2333,Black-headed Grosbeak,White-crowned Sparrow,False
+2334,American Robin,American Robin,True
+2335,Black-headed Grosbeak,Warbling Vireo,False
+2336,Brewer's Sparrow,Brewer's Sparrow,True
+2337,Lark Sparrow,Lark Sparrow,True
+2338,Canyon Wren,Western Wood Pewee,False
+2339,Warbling Vireo,Warbling Vireo,True
+2340,Forster's Tern,Forster's Tern,True
+2341,Clark's Nutcracker,Clark's Nutcracker,True
+2342,Warbling Vireo,Warbling Vireo,True
+2343,Thick-billed Fox Sparrow,Thick-billed Fox Sparrow,True
+2344,American Robin,American Robin,True
+2345,American Robin,American Robin,True
+2346,Great Horned Owl,Black-chinned Sparrow,False
+2347,Common Poorwill,Common Poorwill,True
+2348,Lesser Goldfinch,Common Yellowthroat,False
+2349,Cassin's Vireo,Common Yellowthroat,False
+2350,California Thrasher,Acorn Woodpecker,False
+2351,Verdin,Verdin,True
+2352,Flammulated Owl,Flammulated Owl,True
+2353,Slate-colored Fox Sparrow,Lark Sparrow,False
+2354,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+2355,Grey Vireo,California Thrasher,False
+2356,Verdin,MacGillivray's Warbler,False
+2357,Northern Mockingbird,Northern Mockingbird,True
+2358,Hermit Thrush,Hermit Thrush,True
+2359,Bell's Vireo,California Gnatcatcher,False
+2360,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+2361,Common Yellowthroat,House Wren,False
+2362,American Crow,American Crow,True
+2363,Juniper Titmouse,Juniper Titmouse,True
+2364,Ash-throated Flycatcher,Hermit Thrush,False
+2365,Hermit Warbler,Lincoln's Sparrow,False
+2366,Common Yellowthroat,Lazuli Bunting,False
+2367,Swainson's Thrush,Swainson's Thrush,True
+2368,American Grey Flycatcher,American Grey Flycatcher,True
+2369,Abert's Towhee,Abert's Towhee,True
+2370,Great Horned Owl,Mountain Quail,False
+2371,Black-chinned Sparrow,Black-chinned Sparrow,True
+2372,American Bushtit,American Bushtit,True
+2373,Forster's Tern,Forster's Tern,True
+2374,American Grey Flycatcher,American Grey Flycatcher,True
+2375,Lazuli Bunting,Green-tailed Towhee,False
+2376,Blue-grey Gnatcatcher,Cassin's Vireo,False
+2377,Black-headed Grosbeak,Warbling Vireo,False
+2378,House Finch,House Finch,True
+2379,MacGillivray's Warbler,MacGillivray's Warbler,True
+2380,Northern Mockingbird,Yellow-breasted Chat,False
+2381,Warbling Vireo,Warbling Vireo,True
+2382,Brewer's Sparrow,Brewer's Sparrow,True
+2383,Brewer's Sparrow,Brewer's Sparrow,True
+2384,Hermit Warbler,Hermit Warbler,True
+2385,American Robin,American Robin,True
+2386,Red-winged Blackbird,Red-winged Blackbird,True
+2387,American Dusky Flycatcher,American Dusky Flycatcher,True
+2388,Cassin's Vireo,Cassin's Vireo,True
+2389,Nutting's Flycatcher,Northern Mockingbird,False
+2390,Great Horned Owl,Great Horned Owl,True
+2391,California Thrasher,California Thrasher,True
+2392,American Grey Flycatcher,American Grey Flycatcher,True
+2393,Common Yellowthroat,Common Yellowthroat,True
+2394,Black Phoebe,Black Phoebe,True
+2395,American Bushtit,American Bushtit,True
+2396,White-headed Woodpecker,Steller's Jay,False
+2397,Red-winged Blackbird,Warbling Vireo,False
+2398,Hermit Warbler,Hermit Warbler,True
+2399,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+2400,California Quail,Anna's Hummingbird,False
+2401,Juniper Titmouse,Juniper Titmouse,True
+2402,Hermit Warbler,Hermit Warbler,True
+2403,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+2404,American Robin,American Robin,True
+2405,Mountain Quail,Mountain Quail,True
+2406,Northern Raven,White-headed Woodpecker,False
+2407,House Finch,House Finch,True
+2408,Phainopepla,Phainopepla,True
+2409,Great Horned Owl,Great Horned Owl,True
+2410,Yellow-billed Magpie,Yellow-billed Magpie,True
+2411,Forster's Tern,Forster's Tern,True
+2412,California Gnatcatcher,Abert's Towhee,False
+2413,Pacific Wren,Pacific Wren,True
+2414,Spotted Owl,Spotted Owl,True
+2415,Long-eared Owl,Long-eared Owl,True
+2416,Juniper Titmouse,Juniper Titmouse,True
+2417,Oak Titmouse,Oak Titmouse,True
+2418,Yellow-billed Magpie,Yellow-billed Magpie,True
+2419,Lazuli Bunting,Lazuli Bunting,True
+2420,American Robin,American Robin,True
+2421,Western Wood Pewee,Western Wood Pewee,True
+2422,White-breasted Nuthatch,Swainson's Thrush,False
+2423,Rufous-crowned Sparrow,Northern Pygmy Owl,False
+2424,Common Poorwill,Common Poorwill,True
+2425,Slate-colored Fox Sparrow,Thick-billed Fox Sparrow,False
+2426,Yellow-breasted Chat,Yellow-breasted Chat,True
+2427,Cassin's Vireo,Cassin's Vireo,True
+2428,Western Screech Owl,Western Screech Owl,True
+2429,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+2430,Warbling Vireo,Warbling Vireo,True
+2431,Yellow-breasted Chat,Yellow-breasted Chat,True
+2432,Cassin's Finch,Cassin's Finch,True
+2433,Northern Flicker,Great Horned Owl,False
+2434,Song Sparrow,White-crowned Sparrow,False
+2435,American Robin,California Thrasher,False
+2436,Black-tailed Gnatcatcher,Black-tailed Gnatcatcher,True
+2437,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+2438,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+2439,Northern Raven,Northern Raven,True
+2440,White-breasted Nuthatch,White-breasted Nuthatch,True
+2441,Long-eared Owl,Long-eared Owl,True
+2442,Juniper Titmouse,Juniper Titmouse,True
+2443,Mountain Quail,Mountain Quail,True
+2444,Warbling Vireo,Warbling Vireo,True
+2445,White-breasted Nuthatch,White-breasted Nuthatch,True
+2446,Swainson's Thrush,Swainson's Thrush,True
+2447,Ridgway's Rail,Ridgway's Rail,True
+2448,Grey Vireo,Grey Vireo,True
+2449,Juniper Titmouse,Clark's Nutcracker,False
+2450,California Quail,California Quail,True
+2451,White-headed Woodpecker,White-headed Woodpecker,True
+2452,Northern Mockingbird,Bell's Vireo,False
+2453,White-crowned Sparrow,White-crowned Sparrow,True
+2454,California Thrasher,Rock Wren,False
+2455,Lark Sparrow,Yellow-breasted Chat,False
+2456,Northern Flicker,Yellow-billed Magpie,False
+2457,Elegant Tern,Elegant Tern,True
+2458,Flammulated Owl,Northern Pygmy Owl,False
+2459,Common Yellowthroat,Common Yellowthroat,True
+2460,Flammulated Owl,Flammulated Owl,True
+2461,Nutting's Flycatcher,Nutting's Flycatcher,True
+2462,Northern Mockingbird,Northern Flicker,False
+2463,Hutton's Vireo,Hutton's Vireo,True
+2464,Lark Sparrow,Lark Sparrow,True
+2465,Forster's Tern,Forster's Tern,True
+2466,Canyon Wren,Canyon Wren,True
+2467,Yellow-billed Magpie,Black-tailed Gnatcatcher,False
+2468,Cassin's Vireo,Cassin's Vireo,True
+2469,Brewer's Sparrow,Brewer's Sparrow,True
+2470,Lark Sparrow,Lark Sparrow,True
+2471,Bell's Vireo,Bell's Vireo,True
+2472,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+2473,Forster's Tern,Forster's Tern,True
+2474,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+2475,American Robin,American Robin,True
+2476,Black-headed Grosbeak,Black-headed Grosbeak,True
+2477,Bewick's Wren,Bell's Vireo,False
+2478,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+2479,House Finch,Warbling Vireo,False
+2480,Swainson's Thrush,Swainson's Thrush,True
+2481,Dark-eyed Junco,American Grey Flycatcher,False
+2482,Wilson's Warbler,House Wren,False
+2483,Anna's Hummingbird,House Wren,False
+2484,Lincoln's Sparrow,Lincoln's Sparrow,True
+2485,Pacific Wren,Pacific Wren,True
+2486,Slate-colored Fox Sparrow,Oak Titmouse,False
+2487,House Finch,House Finch,True
+2488,Slate-colored Fox Sparrow,Lark Sparrow,False
+2489,Canyon Wren,Canyon Wren,True
+2490,Great Horned Owl,Great Horned Owl,True
+2491,Red Crossbill,Great Horned Owl,False
+2492,Dark-eyed Junco,Dark-eyed Junco,True
+2493,Lark Sparrow,Lark Sparrow,True
+2494,Elegant Tern,Elegant Tern,True
+2495,Common Yellowthroat,Bell's Sparrow,False
+2496,Red-winged Blackbird,Red-winged Blackbird,True
+2497,Black-chinned Sparrow,Black-chinned Sparrow,True
+2498,Lazuli Bunting,Lazuli Bunting,True
+2499,Common Yellowthroat,Common Yellowthroat,True
+2500,Song Sparrow,Red-winged Blackbird,False
+2501,Marsh Wren,Marsh Wren,True
+2502,Warbling Vireo,Warbling Vireo,True
+2503,Black-chinned Sparrow,Black-chinned Sparrow,True
+2504,Mountain Quail,Mountain Quail,True
+2505,White-crowned Sparrow,Green-tailed Towhee,False
+2506,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+2507,Lazuli Bunting,Lazuli Bunting,True
+2508,Bell's Vireo,Bell's Vireo,True
+2509,Forster's Tern,Forster's Tern,True
+2510,Cassin's Vireo,Cassin's Vireo,True
+2511,American Dusky Flycatcher,American Dusky Flycatcher,True
+2512,Bell's Sparrow,Bell's Sparrow,True
+2513,Brewer's Sparrow,Brewer's Sparrow,True
+2514,Wrentit,Wrentit,True
+2515,Warbling Vireo,Hermit Warbler,False
+2516,Grey Vireo,Red-winged Blackbird,False
+2517,House Wren,House Wren,True
+2518,Spotted Owl,Spotted Owl,True
+2519,Northern Mockingbird,Blue-grey Gnatcatcher,False
+2520,Rock Wren,Rock Wren,True
+2521,Red-winged Blackbird,Lesser Goldfinch,False
+2522,Hutton's Vireo,Pygmy Nuthatch,False
+2523,Northern Mockingbird,California Thrasher,False
+2524,Northern Mockingbird,Yellow-breasted Chat,False
+2525,Swainson's Thrush,Swainson's Thrush,True
+2526,Mountain Quail,Mountain Quail,True
+2527,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+2528,Western Wood Pewee,Western Wood Pewee,True
+2529,White-crowned Sparrow,White-crowned Sparrow,True
+2530,American Bushtit,American Bushtit,True
+2531,Grey Vireo,Yellow-billed Magpie,False
+2532,Slate-colored Fox Sparrow,Green-tailed Towhee,False
+2533,American Grey Flycatcher,American Grey Flycatcher,True
+2534,White-crowned Sparrow,California Gnatcatcher,False
+2535,Pygmy Nuthatch,Abert's Towhee,False
+2536,Northern Mockingbird,Acorn Woodpecker,False
+2537,California Towhee,Chestnut-backed Chickadee,False
+2538,American Crow,American Crow,True
+2539,Rufous-crowned Sparrow,Rufous-crowned Sparrow,True
+2540,Orange-crowned Warbler,Orange-crowned Warbler,True
+2541,Red-winged Blackbird,Red-winged Blackbird,True
+2542,Cassin's Vireo,Cassin's Vireo,True
+2543,Swainson's Thrush,Spotted Towhee,False
+2544,Long-eared Owl,Long-eared Owl,True
+2545,Cassin's Vireo,Cassin's Vireo,True
+2546,Flammulated Owl,Flammulated Owl,True
+2547,Swainson's Thrush,Swainson's Thrush,True
+2548,Cassin's Vireo,Cassin's Vireo,True
+2549,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+2550,American Dusky Flycatcher,American Dusky Flycatcher,True
+2551,Hermit Warbler,Swainson's Thrush,False
+2552,Black-headed Grosbeak,Hutton's Vireo,False
+2553,Juniper Titmouse,Juniper Titmouse,True
+2554,Brewer's Sparrow,Brewer's Sparrow,True
+2555,Black-chinned Sparrow,Black-chinned Sparrow,True
+2556,Rock Wren,Rock Wren,True
+2557,American Robin,American Robin,True
+2558,Swainson's Thrush,Swainson's Thrush,True
+2559,Western Meadowlark,Lark Sparrow,False
+2560,Lazuli Bunting,Lazuli Bunting,True
+2561,Grey Vireo,Grey Vireo,True
+2562,House Finch,Forster's Tern,False
+2563,Lesser Goldfinch,Wilson's Warbler,False
+2564,Wrentit,Wrentit,True
+2565,Anna's Hummingbird,Warbling Vireo,False
+2566,Juniper Titmouse,Mountain Chickadee,False
+2567,Lincoln's Sparrow,Lincoln's Sparrow,True
+2568,Warbling Vireo,Northern Flicker,False
+2569,Hermit Warbler,Hermit Warbler,True
+2570,Common Yellowthroat,Common Yellowthroat,True
+2571,Nutting's Flycatcher,Nutting's Flycatcher,True
+2572,Thick-billed Fox Sparrow,Lincoln's Sparrow,False
+2573,American Crow,American Crow,True
+2574,Northern Mockingbird,Northern Mockingbird,True
+2575,Hermit Warbler,White-crowned Sparrow,False
+2576,Steller's Jay,Steller's Jay,True
+2577,Northern Mockingbird,Northern Mockingbird,True
+2578,Great Horned Owl,Great Horned Owl,True
+2579,Slate-colored Fox Sparrow,Black-chinned Sparrow,False
+2580,Black-headed Grosbeak,Black-headed Grosbeak,True
+2581,Ash-throated Flycatcher,Lark Sparrow,False
+2582,Spotted Owl,Spotted Owl,True
+2583,American Dusky Flycatcher,American Dusky Flycatcher,True
+2584,California Thrasher,Northern Mockingbird,False
+2585,Long-eared Owl,Northern Pygmy Owl,False
+2586,Rock Wren,Rock Wren,True
+2587,Lark Sparrow,Lark Sparrow,True
+2588,Long-eared Owl,Long-eared Owl,True
+2589,American Crow,American Crow,True
+2590,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+2591,Black-chinned Sparrow,Green-tailed Towhee,False
+2592,Northern Mockingbird,Red-winged Blackbird,False
+2593,White-headed Woodpecker,White-headed Woodpecker,True
+2594,Northern Pygmy Owl,Northern Pygmy Owl,True
+2595,Flammulated Owl,Flammulated Owl,True
+2596,Flammulated Owl,Flammulated Owl,True
+2597,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+2598,Dark-eyed Junco,Rock Wren,False
+2599,Flammulated Owl,Long-eared Owl,False
+2600,American Dusky Flycatcher,American Dusky Flycatcher,True
+2601,House Finch,Red Crossbill,False
+2602,Northern Mockingbird,Clark's Nutcracker,False
+2603,Hermit Thrush,Hermit Thrush,True
+2604,American Crow,American Crow,True
+2605,Black-headed Grosbeak,Black-headed Grosbeak,True
+2606,Blue-grey Gnatcatcher,Spotted Towhee,False
+2607,Canyon Wren,Canyon Wren,True
+2608,Spotted Owl,Spotted Owl,True
+2609,Brewer's Sparrow,Orange-crowned Warbler,False
+2610,American Robin,American Robin,True
+2611,Red-winged Blackbird,Red-winged Blackbird,True
+2612,Flammulated Owl,Flammulated Owl,True
+2613,Hermit Warbler,Hermit Warbler,True
+2614,Black Phoebe,Black Phoebe,True
+2615,Cassin's Finch,Cassin's Finch,True
+2616,Great Horned Owl,Great Horned Owl,True
+2617,Western Screech Owl,Northern Pygmy Owl,False
+2618,Brewer's Sparrow,Brewer's Sparrow,True
+2619,Thick-billed Fox Sparrow,Thick-billed Fox Sparrow,True
+2620,Steller's Jay,California Quail,False
+2621,Yellow-billed Magpie,Marsh Wren,False
+2622,Tricolored Blackbird,Tricolored Blackbird,True
+2623,Slate-colored Fox Sparrow,American Grey Flycatcher,False
+2624,Blue-grey Gnatcatcher,Blue-grey Gnatcatcher,True
+2625,Spotted Owl,Northern Saw-whet Owl,False
+2626,Lincoln's Sparrow,Lincoln's Sparrow,True
+2627,Bewick's Wren,Common Yellowthroat,False
+2628,Brewer's Sparrow,Brewer's Sparrow,True
+2629,Pygmy Nuthatch,Abert's Towhee,False
+2630,Lark Sparrow,Lark Sparrow,True
+2631,Lazuli Bunting,Lazuli Bunting,True
+2632,Northern Flicker,Spotted Owl,False
+2633,Lazuli Bunting,Lazuli Bunting,True
+2634,Northern Mockingbird,Ash-throated Flycatcher,False
+2635,Lincoln's Sparrow,Lincoln's Sparrow,True
+2636,Spotted Owl,Spotted Owl,True
+2637,Long-eared Owl,Long-eared Owl,True
+2638,Black-headed Grosbeak,California Thrasher,False
+2639,Long-eared Owl,Long-eared Owl,True
+2640,Green-tailed Towhee,Bewick's Wren,False
+2641,California Quail,Rufous-crowned Sparrow,False
+2642,Lazuli Bunting,Lazuli Bunting,True
+2643,Brewer's Sparrow,Brewer's Sparrow,True
+2644,Red-winged Blackbird,Red-winged Blackbird,True
+2645,Flammulated Owl,Flammulated Owl,True
+2646,Lazuli Bunting,Lazuli Bunting,True
+2647,Pacific Wren,Pacific Wren,True
+2648,Lark Sparrow,Ash-throated Flycatcher,False
+2649,Flammulated Owl,Flammulated Owl,True
+2650,Rock Wren,Rock Wren,True
+2651,American Robin,American Robin,True
+2652,Western Wood Pewee,Western Wood Pewee,True
+2653,Lark Sparrow,Lark Sparrow,True
+2654,American Grey Flycatcher,American Grey Flycatcher,True
+2655,Thick-billed Fox Sparrow,Thick-billed Fox Sparrow,True
+2656,Northern Flicker,Warbling Vireo,False
+2657,Flammulated Owl,Flammulated Owl,True
+2658,Ash-throated Flycatcher,White-breasted Nuthatch,False
+2659,Western Screech Owl,Western Screech Owl,True
+2660,Rock Wren,Rock Wren,True
+2661,Mountain Quail,Black-tailed Gnatcatcher,False
+2662,Cassin's Finch,Rock Wren,False
+2663,Pacific-slope Flycatcher,Pacific-slope Flycatcher,True
+2664,American Crow,American Crow,True
+2665,Pygmy Nuthatch,House Finch,False
+2666,Pygmy Nuthatch,Pygmy Nuthatch,True
+2667,Slate-colored Fox Sparrow,Slate-colored Fox Sparrow,True
+2668,Song Sparrow,Bell's Vireo,False
+2669,Long-eared Owl,Long-eared Owl,True
+2670,Brewer's Sparrow,Brewer's Sparrow,True
+2671,American Robin,American Robin,True
+2672,Ash-throated Flycatcher,Ash-throated Flycatcher,True
+2673,Black-headed Grosbeak,Black-headed Grosbeak,True
+2674,Rock Wren,Rock Wren,True
+2675,American Crow,American Crow,True
+2676,Rock Wren,Rock Wren,True
+2677,Black-headed Grosbeak,Black-headed Grosbeak,True
+2678,Chestnut-backed Chickadee,Anna's Hummingbird,False
+2679,Flammulated Owl,Flammulated Owl,True
+2680,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+2681,Bewick's Wren,Rufous-crowned Sparrow,False
+2682,Acorn Woodpecker,American Robin,False
+2683,Hutton's Vireo,Rock Wren,False
+2684,American Grey Flycatcher,American Grey Flycatcher,True
+2685,Verdin,Verdin,True
+2686,Hutton's Vireo,Hutton's Vireo,True
+2687,Bewick's Wren,Rufous-crowned Sparrow,False
+2688,Grey Vireo,Grey Vireo,True
+2689,Orange-crowned Warbler,American Bushtit,False
+2690,Elegant Tern,Elegant Tern,True
+2691,Chestnut-backed Chickadee,Chestnut-backed Chickadee,True
+2692,Dark-eyed Junco,Rock Wren,False
+2693,Nutting's Flycatcher,Juniper Titmouse,False
+2694,White-breasted Nuthatch,Clark's Nutcracker,False
+2695,Lark Sparrow,Lark Sparrow,True
+2696,Yellow-breasted Chat,Northern Mockingbird,False
+2697,Brewer's Sparrow,Brewer's Sparrow,True
+2698,Lark Sparrow,Western Meadowlark,False
+2699,Northern Saw-whet Owl,Northern Pygmy Owl,False
+2700,Black-headed Grosbeak,Black-headed Grosbeak,True
+2701,Wilson's Warbler,Wilson's Warbler,True
+2702,Western Screech Owl,Western Screech Owl,True
+2703,Cassin's Vireo,Cassin's Vireo,True
+2704,Thick-billed Fox Sparrow,Green-tailed Towhee,False
+2705,Northern Mockingbird,Bell's Vireo,False
+2706,Long-eared Owl,Long-eared Owl,True
+2707,Western Wood Pewee,Black-chinned Sparrow,False
+2708,Clark's Nutcracker,Clark's Nutcracker,True
