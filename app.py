@@ -53,7 +53,7 @@ def upload():
 
     results = model_input()
 
-    return render_template("sound1.html",msg =msg, **results)
+    return render_template("Sound.html",msg =msg, **results)
 
 
 

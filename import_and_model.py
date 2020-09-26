@@ -27,9 +27,6 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.applications import EfficientNetB0
 from keras.models import load_model
 
-import seaborn as sns
-sns.set()
-
 import boto3
 import botocore
 
@@ -41,10 +38,15 @@ def model_input():
     BUCKET_NAME = 'thunderstruck-duck' # replace with your bucket name
     KEY = "sample_mp3.mp3" # replace with your object key
 
-    s3 = boto3.resource('s3')
+    s3 = boto3.client('s3',
+                        aws_access_key_id='AKIAISITTOGCJRNF46HQ',
+                        aws_secret_access_key= 'bq/VRAme7BxDMqf3hgEMLZdrJNVvrtdQ4VmoGAdB',
+                        )
+    BUCKET_NAME = "thunderstruck-duck"
+
 
     try:
-        s3.Bucket(BUCKET_NAME).download_file(KEY, "sample_mp3.mp3")
+        s3.download_file(BUCKET_NAME, KEY, "sample_mp3.mp3")
     except botocore.exceptions.ClientError as e:
         if e.response['Error']['Code'] == "404":
             print("The object does not exist.")
@@ -74,6 +76,8 @@ def model_input():
     
     #Create a DF that will take the created Melspectogram directory
     data_df = pd.DataFrame([{'bird': "sample bird", 'song_sample': f"/app/upload_mel/{filename}"}])
+    
+    # Users/HyunsooKim/Desktop/Boot_Camp/Homework/BIRD_CALL/upload_mel/{filename}"}])
     
     #Compile the model
     callbacks = [ReduceLROnPlateau(monitor='val_loss', patience=2, verbose=1, factor=0.7),
