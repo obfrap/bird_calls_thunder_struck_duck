@@ -21,7 +21,7 @@ Efficientnet, developed by Google, will be used to train the model. Efficientnet
 Much credit goes to Francois Lemarchand for development. We worked around fitting our dataset into this model:
 * https://www.kaggle.com/frlemarchand/bird-song-classification-using-an-efficientnet
 
-![] (image4.png)
+![](image4.png)
 
 ### Website:
 We created a website where users can dynamically upload their bird sound files and returns the user with the prediction:
@@ -30,7 +30,7 @@ https://bird-call.herokuapp.com/#
 ### Data Upload and storage:
 Both train and test data are available through s3 bucket or the above Kaggle link. For uploading and downloading the audio file for modeling, we also used s3 and Boto3 for the entire process
 
-![] (Flowchart.png)
+![](Flowchart.png)
 ### Libraries and programs used:
 
 * Audacity (For audio processing)
