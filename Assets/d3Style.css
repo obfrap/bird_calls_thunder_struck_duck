@@ -1,0 +1,161 @@
+.circle{
+    size: 40px;
+}
+
+#vis{
+    vertical-align: middle;
+    margin-top:20px;
+    padding-top:20px;
+    background: url(sky.jpg);
+    height: 780px;
+    width: 1035px;
+    
+}
+
+
+body{
+    background-color:white !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1{
+    color: skyblue !important;
+}
+
+.h2{
+    color: skyblue;
+}
+
+image {
+    border-image: url(Acorn_woodpecker.jpg) 30 round !important;
+    border: 10px solid rgb(255, 255, 255) !important;
+    position: relative;
+    z-index: 100 !important;
+}
+
+img{
+    position: relative;
+    z-index: 100;
+}
+
+.nodetext{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}
+
+.logo {
+    float: left;
+  }
+  /* ~~ Top Navigation Bar ~~ */
+  
+  #navigation-container {
+    width: 1200px;
+    margin: 0 auto;
+    height: 70px;
+  }
+  
+  .navigation-bar {
+    background-color: skyblue;
+    height: 70px;
+    width: 100%;
+  }
+  
+  .navigation-bar ul {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    display:inline-block;
+    vertical-align:top;
+  }
+  
+  .navigation-bar li {
+    list-style-type: none;
+    padding: 0px;
+    height: 24px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    display: inline;
+  }
+  
+  .navigation-bar li a {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    line-height: 70px;
+    padding: 5px 15px;
+    opacity: 0.7;
+  }
+  
+  #menu {
+    float: right;
+  }
+
+  
+
+
+.col-sm-12{
+    vertical-align: middle; 
+    margin-top:20px;
+    padding-top:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: skyblue !important;
+    font-size: 38px;
+}
+
+.strong{
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+svg{
+    width: 850px !important;
+    height: 750px !important;    
+}
+
+.three_text {
+    background-color:skyblue !important;
+    color: rgb(255, 255, 255) !important;
+    font-family: Arial, Helvetica, sans-serif;
+    /* margin: 5px; */
+    /* width: 25%;  */
+    height: 700px; 
+    border: 10px solid white;
+   
+
+}
+
+
+
+ul {
+        list-style: none !important; /* Remove default bullets */
+
+}
+
+#defense_bird{
+    width: 290px; 
+    height: 200px;
+    max-width:100%;
+}
+
+#dawn_bird{
+    width: 290px; 
+    height: 200px;
+    max-width:100%;
+}
+
+#male_bird{
+    width: 290px; 
+    height: 200px;
+    max-width:100%;
+}
+
+.white_heading{
+    color: white !important;
+    align-content: center !important;
+}
+
+.center_class{
+        /* width: 50%; */
+        margin: 0 auto;
+}
+
