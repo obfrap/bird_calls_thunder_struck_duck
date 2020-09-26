@@ -1,0 +1,197 @@
+{
+    "name": "Bird Sounds",
+    "img": "static/Visualizations/bird_icon.png",
+    "children": [
+     {
+      "name": "Group 1",
+      "children": [
+        {
+             "hero": "Anna's Hummingbird",
+             "name": "Anna's Hummingbird", 
+             "link": "https://www.allaboutbirds.org/guide/Annas_Hummingbird/sounds",
+              "img":  "static/Visualizations/hummingbird.jpg",
+              "audio": "static/Visualizations/anna_hummingbird.mp3",
+                 "size": 40000
+         },
+
+        {
+            "hero": "Albert's Towhee",
+            "name": "Albert's Towhee", 
+            "link": "https://www.allaboutbirds.org/guide/Aberts_Towhee/sounds",
+            "img":  "static/Visualizations/alberts_towhee.jpg",
+            "audio": "static/Visualizations/alberts_towhee.mp3",
+                "size": 40000
+        },
+        {
+            "hero": "Acorn Woodpecker",
+            "name": "Acorn Woodpecker", 
+            "link": "https://www.allaboutbirds.org/guide/Acorn_Woodpecker/sounds",
+             "img":  "static/Visualizations/Acorn_woodpecker.jpg",
+             "audio": "static/Visualizations/acorn_woodpecker.mp3",
+                "size": 40000
+        },
+        {
+            "hero": "American Bushtit",
+            "name": "American Bushtit", 
+            "link": "https://www.allaboutbirds.org/guide/Bushtit/sounds",
+             "img":  "static/Visualizations/american_bushtit.jpg",
+             "audio": "static/Visualizations/american_bushtit.mp3",
+                "size": 40000
+        }
+        
+      ]
+     },
+     {
+        "name": "Group 2",
+        "children": [
+        {
+            "hero": "American Dusky Flycatcher",
+             "name": "American Dusky Flycatcher", 
+             "link": "https://www.allaboutbirds.org/guide/Dusky_Flycatcher/sounds",
+              "img":  "static/Visualizations/american_dusky_flycatcher.jpg",
+              "audio": "static/Visualizations/american_dusky_flycatcher.mp3",
+             "size": 40000
+        },   
+        {
+            "hero": "Bell's Sparrow",
+             "name": "Bell's Sparrow", 
+             "link": "https://www.allaboutbirds.org/guide/Bells_Sparrow/sounds",
+              "img":  "static/Visualizations/bells_sparrow.jpg",
+              "audio":  "static/Visualizations/bells_sparrow.mp3",
+             "size": 40000
+        },
+        {
+            "hero": "Black Phoebe",
+             "name": "Black Phoebe", 
+             "link": "https://www.allaboutbirds.org/guide/Black_Phoebe/sounds",
+              "img":  "static/Visualizations/black_phoebe.jpg",
+              "audio": "static/Visualizations/black_phoebe.mp3",
+             "size": 40000
+        },
+        {
+            "hero": "Blue Gray Gnatcatcher",
+             "name": "Blue Gray Gnatcatcher", 
+             "link": "https://www.allaboutbirds.org/guide/Blue-gray_Gnatcatcher/sounds",
+              "img":  "static/Visualizations/blue_gray_gnatcatcher.jpg",
+              "audio":  "static/Visualizations/blue_grey_gnatcatcher.mp3",
+             "size": 40000
+        }
+        ]
+       },
+
+
+     {
+      "name": "Group 3",
+      "children": [
+        {
+            "hero": "American Crow",
+            "name": "American Crow", 
+            "link": "https://www.allaboutbirds.org/guide/American_Crow/sounds",
+             "img":  "static/Visualizations/american_crow.jpg",
+             "audio":  "static/Visualizations/american_crow.mp3",
+                "size": 40000
+        },
+        {
+            "hero": "California Gnatcatcher",
+            "name": "California Gnatcatcher", 
+            "link": "https://www.allaboutbirds.org/guide/California_Gnatcatcher/sounds",
+             "img":  "static/Visualizations/california_gnatcatcher.jpg",
+             "audio":  "static/Visualizations/california_gnatcatcher.mp3",
+                "size": 40000
+        },
+        {
+            "hero": "California Quail",
+            "name": "California Quail", 
+            "link": "https://www.allaboutbirds.org/guide/California_Quail/sounds",
+             "img":  "static/Visualizations/california_quail.jpg",
+             "audio":  "static/Visualizations/california_quail.mp3",
+                "size": 40000
+        },
+        {
+            "hero": "Canyon Wren",
+            "name": "Canyon Wren", 
+            "link": "https://www.allaboutbirds.org/guide/Canyon_Wren/sounds",
+             "img":  "static/Visualizations/canyon_wren.jpg",
+             "audio":  "static/Visualizations/canyon_wren.mp3",
+                "size": 40000
+        }
+      ]
+     },
+     {
+        "name": "Group 4",
+        "children": [
+        {
+            "hero": "Cassin's Finch",
+            "name": "Cassin's Finch", 
+            "link": "https://www.allaboutbirds.org/guide/Cassins_Finch/sounds",
+             "img":  "static/Visualizations/Cassins_finch.jpg",
+             "audio":  "static/Visualizations/Cassins_finch.mp3",
+            "size": 40000
+        },
+        {
+            "hero": "Dark-Eyed Junco",
+            "name": "Dark-Eyed Junco", 
+            "link": "https://www.allaboutbirds.org/guide/Dark-eyed_Junco/sounds",
+             "img":  "static/Visualizations/dark_eyed_junco.jpg",
+             "audio":  "static/Visualizations/dark_eyed_junco.mp3",
+            "size": 40000
+        },
+        {
+            "hero": "Flammulated Owl",
+            "name": "Flammulated Owl", 
+            "link": "https://www.allaboutbirds.org/guide/Flammulated_Owl/sounds",
+             "img":  "static/Visualizations/flammulated_owl.jpg",
+             "audio":  "static/Visualizations/Flammulated_owl.mp3",
+            "size": 40000
+        },
+        {
+            "hero": "Marsh Wren",
+            "name": "Marsh Wren", 
+            "link": "https://www.allaboutbirds.org/guide/Marsh_Wren/sounds",
+             "img":  "static/Visualizations/marsh_wren.jpg",
+             "audio":  "static/Visualizations/marsh_wren.mp3",
+            "size": 40000
+        }
+        ]
+     },
+    {
+     "name": "Group 5",
+     "children": [
+     {
+         "hero": "Mountain Chickadee",
+         "name": "Mountain Chickadee", 
+         "link": "https://www.allaboutbirds.org/guide/Mountain_Chickadee/sounds",
+          "img":  "static/Visualizations/mountain_chickadee.jpg",
+          "audio":  "static/Visualizations/mountain_chickadee.mp3",
+         "size": 40000
+     },
+     {
+         "hero": "Mountain Quail",
+         "name": "Mountain Quail", 
+         "link": "https://www.allaboutbirds.org/guide/Mountain_Quail/sounds",
+          "img":  "static/Visualizations/mountain_quail.jpg",
+          "audio":  "static/Visualizations/mountain_quail.mp3",
+         "size": 40000
+     },
+     {
+         "hero": "Northern Mockingbird",
+         "name": "Northern Mockingbird", 
+         "link": "https://www.allaboutbirds.org/guide/Northern_Mockingbird/sounds",
+          "img":  "static/Visualizations/northern_mockingbird.jpg",
+          "audio":  "static/Visualizations/northern_mockingbird.mp3",
+         "size": 40000
+     },
+     {
+         "hero": "Nuttall's Woodpecker",
+         "name": "Nuttall's Woodpecker", 
+         "link": "https://www.allaboutbirds.org/guide/Nuttalls_Woodpecker/sounds",
+          "img":  "static/Visualizations/nuttalls_woodpecker.jpg",
+          "audio":  "static/Visualizations/nuttalls_woodpecker.mp3",
+         "size": 40000
+     }
+     ]
+    }
+
+         
+    ]
+   }
