@@ -22,7 +22,7 @@
 <body>
     <div class="navigation-bar">
         <div id="navigation-container">
-            <!-- <img id="bird_logo" src="Visualizations/bird-icon-small.png">  -->
+            <img src="{{ url_for('static', filename='Visualizations/bird-icon-small.png') }}">   
             <ul>
                 <li><a href="/#">Home</a></li>
                 <li><a href="/Findings">Findings</a></li>
@@ -74,7 +74,7 @@
 
         <div class="card">
             <div class="card-body">
-            There is {{  likelihood  }} * 100 percent chance that it is {{ name_of_bird}}
+            There is {{  likelihood  }} chance that it is {{ name_of_bird}}
             </div>
         </div>
     </div>
